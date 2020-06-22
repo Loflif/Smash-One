@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 
 public class EnemyBehaviour : MonoBehaviour
@@ -38,7 +39,12 @@ public class EnemyBehaviour : MonoBehaviour
 
     void Attack(Vector3 direction)
     {
-
+        Thread.Sleep(500);
+        Vector3 distanceToPlayer = player.transform.position - transform.position;
+        if(distanceToPlayer.magnitude < 1.25f)
+        {
+            //do damage to player
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -47,7 +53,6 @@ public class EnemyBehaviour : MonoBehaviour
         {
             die();
         }
-        die();
     }
 
     void die()
