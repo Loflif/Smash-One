@@ -25,8 +25,4 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private Vector2 Move()
-    {
-
-    }
 }
