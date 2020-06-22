@@ -19,14 +19,48 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetKeyDown(UpKey) && Input.GetKeyDown(RightKey))
-        {
-
-        }
+        if (Input.GetKey(UpKey) && Input.GetKey(RightKey)) Move(Direction.NORTH_EAST);
+        else if (Input.GetKey(RightKey) && Input.GetKey(DownKey)) Move(Direction.SOUTH_EAST);
+        else if (Input.GetKey(LeftKey) && Input.GetKey(DownKey)) Move(Direction.SOUTH_WEST);
+        else if (Input.GetKey(LeftKey) && Input.GetKey(UpKey)) Move(Direction.NORTH_WEST);
+        else if (Input.GetKey(UpKey)) Move(Direction.NORTH);
+        else if (Input.GetKey(RightKey)) Move(Direction.EAST);
+        else if (Input.GetKey(DownKey)) Move(Direction.SOUTH);
+        else if (Input.GetKey(LeftKey)) Move(Direction.WEST);
     }
 
-    private Vector2 Move()
+    private void Move(Direction pDirection)
     {
-
+        switch(pDirection)
+        {
+            case Direction.NORTH:
+                transform.position += Vector3.up * MovementSpeed * Time.deltaTime;
+                break;
+            case Direction.NORTH_EAST:
+                transform.position += Vector3.up * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                transform.position += Vector3.right * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                break;
+            case Direction.EAST:
+                transform.position += Vector3.right * MovementSpeed * Time.deltaTime;
+                break;
+            case Direction.SOUTH_EAST:
+                transform.position += Vector3.down * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                transform.position += Vector3.right * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                break;
+            case Direction.SOUTH:
+                transform.position += Vector3.down * MovementSpeed * Time.deltaTime;
+                break;
+            case Direction.SOUTH_WEST:
+                transform.position += Vector3.down * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                transform.position += Vector3.left * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                break;
+            case Direction.WEST:
+                transform.position += Vector3.left * MovementSpeed * Time.deltaTime;
+                break;
+            case Direction.NORTH_WEST:
+                transform.position += Vector3.up * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                transform.position += Vector3.left * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                break;
+        }
     }
 }
