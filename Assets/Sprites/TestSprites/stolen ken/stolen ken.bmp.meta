@@ -1,0 +1,1478 @@
+fileFormatVersion: 2
+guid: 9e468bdca4600d146a0f346266d7346c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8863762095731641295
+    second: stolen ken_0
+  - first:
+      213: -9137700985671938193
+    second: stolen ken_1
+  - first:
+      213: -2131825619767704060
+    second: stolen ken_2
+  - first:
+      213: -6061102170227492410
+    second: stolen ken_3
+  - first:
+      213: 3490675637261220722
+    second: stolen ken_4
+  - first:
+      213: 6549496665116670979
+    second: stolen ken_5
+  - first:
+      213: 8405687881125965386
+    second: stolen ken_6
+  - first:
+      213: 2416881236096583422
+    second: stolen ken_7
+  - first:
+      213: -6822279602502063652
+    second: stolen ken_8
+  - first:
+      213: 3960726779763956163
+    second: stolen ken_9
+  - first:
+      213: -6322913373649826258
+    second: stolen ken_10
+  - first:
+      213: -5449906394972828532
+    second: stolen ken_11
+  - first:
+      213: -4847333384727720586
+    second: stolen ken_12
+  - first:
+      213: 2629589338163119959
+    second: stolen ken_13
+  - first:
+      213: -1804298010371195719
+    second: stolen ken_14
+  - first:
+      213: 241853128903057616
+    second: stolen ken_15
+  - first:
+      213: -6830419810016207629
+    second: stolen ken_16
+  - first:
+      213: 4883199734835385173
+    second: stolen ken_17
+  - first:
+      213: -9165794337701285820
+    second: stolen ken_18
+  - first:
+      213: -8040689666127292557
+    second: stolen ken_19
+  - first:
+      213: -8799386619648836065
+    second: stolen ken_20
+  - first:
+      213: -2495275653358889986
+    second: stolen ken_21
+  - first:
+      213: 2978858599655277113
+    second: stolen ken_22
+  - first:
+      213: 8795957011020543454
+    second: stolen ken_23
+  - first:
+      213: 6556897355854577666
+    second: stolen ken_24
+  - first:
+      213: -4970749628952139733
+    second: stolen ken_25
+  - first:
+      213: -8242460629961383205
+    second: stolen ken_26
+  - first:
+      213: -6328928187281152731
+    second: stolen ken_27
+  - first:
+      213: -7667424302759306834
+    second: stolen ken_28
+  - first:
+      213: -4232570648607629216
+    second: stolen ken_29
+  - first:
+      213: 5931445528973993870
+    second: stolen ken_30
+  - first:
+      213: 6781086238280015726
+    second: stolen ken_31
+  - first:
+      213: 8560303007318728219
+    second: stolen ken_32
+  - first:
+      213: 7629499706930417515
+    second: stolen ken_33
+  - first:
+      213: -5407145907509961971
+    second: stolen ken_34
+  - first:
+      213: -255984166153034943
+    second: stolen ken_35
+  - first:
+      213: 6451111297830020261
+    second: stolen ken_36
+  - first:
+      213: -4018584812607085490
+    second: stolen ken_37
+  - first:
+      213: -7710527161622312584
+    second: stolen ken_38
+  - first:
+      213: -6736139314499918253
+    second: stolen ken_39
+  - first:
+      213: -951625306012015388
+    second: stolen ken_40
+  - first:
+      213: -5168016948024734560
+    second: stolen ken_41
+  - first:
+      213: 6970598496633949657
+    second: stolen ken_42
+  - first:
+      213: -5465329373845201394
+    second: stolen ken_43
+  - first:
+      213: 4683951649879971305
+    second: stolen ken_44
+  - first:
+      213: -4650322701318634687
+    second: stolen ken_45
+  - first:
+      213: 1752367252962008623
+    second: stolen ken_46
+  - first:
+      213: 6768489241821196148
+    second: stolen ken_47
+  - first:
+      213: -7073844492167899458
+    second: stolen ken_48
+  - first:
+      213: 5945451267103842192
+    second: stolen ken_49
+  - first:
+      213: -5200011729816622848
+    second: stolen ken_0
+  - first:
+      213: -556414747973275073
+    second: stolen ken_1
+  - first:
+      213: -5599825997801338676
+    second: stolen ken_2
+  - first:
+      213: 5369866138084578489
+    second: stolen ken_3
+  - first:
+      213: -366423777433930530
+    second: stolen ken_4
+  - first:
+      213: 5760987859371010054
+    second: stolen ken_5
+  - first:
+      213: -6264465115710369891
+    second: stolen ken_6
+  - first:
+      213: 180218711313977136
+    second: stolen ken_7
+  - first:
+      213: -4626615408700394747
+    second: stolen ken_8
+  - first:
+      213: -5060470350876543165
+    second: stolen ken_9
+  - first:
+      213: -2687723530145899230
+    second: stolen ken_10
+  - first:
+      213: 8342240850829793376
+    second: stolen ken_11
+  - first:
+      213: 4675348849885693527
+    second: stolen ken_12
+  - first:
+      213: 2724121966306040378
+    second: stolen ken_13
+  - first:
+      213: 3141467156214866723
+    second: stolen ken_14
+  - first:
+      213: -4257345162483824011
+    second: stolen ken_15
+  - first:
+      213: -6408548126555835091
+    second: stolen ken_16
+  - first:
+      213: -9151014858204178448
+    second: stolen ken_17
+  - first:
+      213: -1139744419819189456
+    second: stolen ken_18
+  - first:
+      213: -401181089247892314
+    second: stolen ken_19
+  - first:
+      213: 2472622597745207615
+    second: stolen ken_20
+  - first:
+      213: -6856656753019417595
+    second: stolen ken_21
+  - first:
+      213: -4350685176707236467
+    second: stolen ken_22
+  - first:
+      213: 6310600918583449312
+    second: stolen ken_23
+  - first:
+      213: 1111147499616446586
+    second: stolen ken_24
+  - first:
+      213: 3050604318541619314
+    second: stolen ken_25
+  - first:
+      213: -2163288784870911051
+    second: stolen ken_26
+  - first:
+      213: -8693171230634886495
+    second: stolen ken_27
+  - first:
+      213: 8200328677087738845
+    second: stolen ken_28
+  - first:
+      213: -587701035619532881
+    second: stolen ken_29
+  - first:
+      213: -6041095103545085071
+    second: stolen ken_30
+  - first:
+      213: -1983045983298417362
+    second: stolen ken_31
+  - first:
+      213: -656308372707152278
+    second: stolen ken_32
+  - first:
+      213: 8666040482879360713
+    second: stolen ken_33
+  - first:
+      213: -4412970439284260524
+    second: stolen ken_34
+  - first:
+      213: 8507198681759131728
+    second: stolen ken_35
+  - first:
+      213: -5748195343498624352
+    second: stolen ken_36
+  - first:
+      213: -5880884507193486027
+    second: stolen ken_37
+  - first:
+      213: -5964396130785613868
+    second: stolen ken_38
+  - first:
+      213: -3767408873640068107
+    second: stolen ken_39
+  - first:
+      213: -3237952339850955011
+    second: stolen ken_40
+  - first:
+      213: 2746278256213373376
+    second: stolen ken_41
+  - first:
+      213: 2963345566006971362
+    second: stolen ken_42
+  - first:
+      213: -8560362805767785926
+    second: stolen ken_43
+  - first:
+      213: -1899871448730445705
+    second: stolen ken_44
+  - first:
+      213: -5677039851651167463
+    second: stolen ken_45
+  - first:
+      213: -7091906171368947183
+    second: stolen ken_46
+  - first:
+      213: 4652364307160660447
+    second: stolen ken_47
+  - first:
+      213: 7872167186705043410
+    second: stolen ken_48
+  - first:
+      213: 2544023760985220561
+    second: stolen ken_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stolen ken_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 909
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096a60f1e8d5d7b0800000000000000
+      internalID: -5200011729816622848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 909
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32b3471cb73748f0800000000000000
+      internalID: -556414747973275073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 907
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8cd059ceb6942b0800000000000000
+      internalID: -5599825997801338676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 907
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b41ee34dc8958a40800000000000000
+      internalID: 5369866138084578489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 903
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43bcc04833aeaf0800000000000000
+      internalID: -366423777433930530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 903
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608a5216fe323ff40800000000000000
+      internalID: 5760987859371010054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 904
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fc146fa262019a0800000000000000
+      internalID: -6264465115710369891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 905
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8fbd86f3408200800000000000000
+      internalID: 180218711313977136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 906
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50370147cc5facfb0800000000000000
+      internalID: -4626615408700394747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_9
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 906
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3477b93070995c9b0800000000000000
+      internalID: -5060470350876543165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 780
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dd13380b943bad0800000000000000
+      internalID: -2687723530145899230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 777
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685670dad795c370800000000000000
+      internalID: 8342240850829793376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 779
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756c776020d22e040800000000000000
+      internalID: 4675348849885693527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 778
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a928ece760ec520800000000000000
+      internalID: 2724121966306040378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 777
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3236ebffbbbb89b20800000000000000
+      internalID: 3141467156214866723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 772
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a8cef812fdae4c0800000000000000
+      internalID: -4257345162483824011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 773
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f4aece634017a0800000000000000
+      internalID: -6408548126555835091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_17
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 775
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71b6a7870110180800000000000000
+      internalID: -9151014858204178448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_18
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 776
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b81f12d70de20f0800000000000000
+      internalID: -1139744419819189456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 775
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac66c4cce7be6af0800000000000000
+      internalID: -401181089247892314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 773
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39e432f625805220800000000000000
+      internalID: 2472622597745207615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 634
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8e71e20348d0a0800000000000000
+      internalID: -6856656753019417595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 634
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dbec8f1e24f93c0800000000000000
+      internalID: -4350685176707236467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 633
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e69b67b912c39750800000000000000
+      internalID: 6310600918583449312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 636
+        width: 136
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78a3b783c69b6f00800000000000000
+      internalID: 1111147499616446586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 637
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27022f4077ce55a20800000000000000
+      internalID: 3050604318541619314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_26
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 639
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3de2fcf447af1e0800000000000000
+      internalID: -2163288784870911051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_27
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 637
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aabc5af2d6ab5780800000000000000
+      internalID: -8693171230634886495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 516
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb734f0c7b6dc170800000000000000
+      internalID: 8200328677087738845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 518
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb4c9950118d7f0800000000000000
+      internalID: -587701035619532881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 520
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173f7daa208b92ca0800000000000000
+      internalID: -6041095103545085071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 517
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d8b305f2eca74e0800000000000000
+      internalID: -1983045983298417362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 391
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eeca5230354e6f0800000000000000
+      internalID: -656308372707152278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 392
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cecd2f87e5f34870800000000000000
+      internalID: 8666040482879360713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 388
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451892234caf1c2c0800000000000000
+      internalID: -4412970439284260524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 386
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058ace3c024af0670800000000000000
+      internalID: 8507198681759131728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 382
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2c5335ace4a30b0800000000000000
+      internalID: -5748195343498624352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 381
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53552afe2b6e26ea0800000000000000
+      internalID: -5880884507193486027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 236
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d72fccd1553a3da0800000000000000
+      internalID: -5964396130785613868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 238
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb770b079977bbc0800000000000000
+      internalID: -3767408873640068107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 241
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f987908b7013d0800000000000000
+      internalID: -3237952339850955011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c13afb068dbc1620800000000000000
+      internalID: 2746278256213373376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 256
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb0390871bef1920800000000000000
+      internalID: 2963345566006971362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 252
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32beb5026b733980800000000000000
+      internalID: -8560362805767785926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_44
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 250
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d38bbbfc42a5e0800000000000000
+      internalID: -1899871448730445705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 237
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b889a455a1731b0800000000000000
+      internalID: -5677039851651167463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_46
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 228
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112472369ec749d90800000000000000
+      internalID: -7091906171368947183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 227
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9740620b4809040800000000000000
+      internalID: 4652364307160660447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_48
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 224
+        width: 71
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4a08095e8f3d60800000000000000
+      internalID: 7872167186705043410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stolen ken_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 384
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56dadb1203e4320800000000000000
+      internalID: 2544023760985220561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
