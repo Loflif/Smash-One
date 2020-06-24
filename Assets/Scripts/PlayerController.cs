@@ -11,6 +11,12 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private KeyCode DownKey = KeyCode.S;
     [SerializeField] private KeyCode LeftKey = KeyCode.A;
 
+    [SerializeField] private KeyCode UpShootKey, RightShootKey, DownShootKey, LeftShootKey;
+
+    [SerializeField] private Transform ShotOriginsN, ShotOriginsNE, ShotOriginsE, ShotOriginsSE, ShotOriginsS, ShotOriginsSW, ShotOriginsW, ShotOriginsNW;
+
+    [SerializeField] private Transform ShotParent;
+
     [SerializeField] private float MovementSpeed = 2.0f;
    
 
@@ -32,6 +38,15 @@ public class PlayerController : MonoBehaviour
         else if (Input.GetKey(RightKey)) Move(Direction.EAST);
         else if (Input.GetKey(DownKey)) Move(Direction.SOUTH);
         else if (Input.GetKey(LeftKey)) Move(Direction.WEST);
+
+        if (Input.GetKeyDown(UpShootKey) && Input.GetKeyDown(RightShootKey)) Shoot(Direction.NORTH_EAST);
+        else if (Input.GetKeyDown(RightShootKey) && Input.GetKeyDown(DownShootKey)) Shoot(Direction.SOUTH_EAST);
+        else if (Input.GetKeyDown(LeftShootKey) && Input.GetKeyDown(DownShootKey)) Shoot(Direction.SOUTH_WEST);
+        else if (Input.GetKeyDown(LeftShootKey) && Input.GetKeyDown(UpShootKey)) Shoot(Direction.NORTH_WEST);
+        else if (Input.GetKeyDown(UpShootKey)) Shoot(Direction.NORTH);
+        else if (Input.GetKeyDown(RightShootKey)) Shoot(Direction.EAST);
+        else if (Input.GetKeyDown(DownShootKey)) Shoot(Direction.SOUTH);
+        else if (Input.GetKeyDown(LeftShootKey)) Shoot(Direction.WEST);
     }
 
     private void Move(Direction pDirection)
@@ -74,20 +89,28 @@ public class PlayerController : MonoBehaviour
         switch (pDirection)
         {
             case Direction.NORTH:
+                Instantiate(Shot, ShotOriginsN.position, ShotOriginsN.rotation, ShotParent);
                 break;
             case Direction.NORTH_EAST:
-                break;
-            case Direction.SOUTH_EAST:
+                Instantiate(Shot, ShotOriginsNE.position, ShotOriginsNE.rotation, ShotParent);
                 break;
             case Direction.EAST:
+                Instantiate(Shot, ShotOriginsE.position, ShotOriginsE.rotation, ShotParent);
+                break;
+            case Direction.SOUTH_EAST:
+                Instantiate(Shot, ShotOriginsSE.position, ShotOriginsSE.rotation, ShotParent);
                 break;
             case Direction.SOUTH:
+                Instantiate(Shot, ShotOriginsS.position, ShotOriginsS.rotation, ShotParent);
                 break;
             case Direction.SOUTH_WEST:
+                Instantiate(Shot, ShotOriginsSW.position, ShotOriginsSW.rotation, ShotParent);
                 break;
             case Direction.WEST:
+                Instantiate(Shot, ShotOriginsW.position, ShotOriginsW.rotation, ShotParent);
                 break;
             case Direction.NORTH_WEST:
+                Instantiate(Shot, ShotOriginsNW.position, ShotOriginsNW.rotation, ShotParent);
                 break;
             
         }

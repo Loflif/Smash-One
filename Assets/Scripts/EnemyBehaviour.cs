@@ -59,9 +59,9 @@ public class EnemyBehaviour : MonoBehaviour
         anim.Play("Base Layer.walk");
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-        if(collision.gameObject.tag == "PlayerShot")
+        if(collider.gameObject.tag == "PlayerShot")
         {
             die();
         }
