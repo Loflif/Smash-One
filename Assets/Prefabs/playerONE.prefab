@@ -363,6 +363,7 @@ MonoBehaviour:
   ShotOriginsNW: {fileID: 830165042346386754}
   ShotParent: {fileID: 0}
   MovementSpeed: 4.31
+  ShootTime: 0.2
 --- !u!50 &7229507741924086415
 Rigidbody2D:
   serializedVersion: 4

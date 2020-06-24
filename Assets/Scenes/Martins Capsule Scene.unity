@@ -531,6 +531,11 @@ PrefabInstance:
       propertyPath: ShotParent
       value: 
       objectReference: {fileID: 1407879660}
+    - target: {fileID: 7229507741924086410, guid: c67adc5f60230ef4bab1ad494aab7436,
+        type: 3}
+      propertyPath: ShootCooldown
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 7229507741924086411, guid: c67adc5f60230ef4bab1ad494aab7436,
         type: 3}
       propertyPath: m_Name
