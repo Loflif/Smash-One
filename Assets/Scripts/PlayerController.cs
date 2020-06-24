@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    [SerializeField] private GameObject Shot = null;
+
     [SerializeField] private KeyCode UpKey = KeyCode.W;
     [SerializeField] private KeyCode RightKey = KeyCode.D;
     [SerializeField] private KeyCode DownKey = KeyCode.S;
@@ -14,7 +16,10 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        
+        if(Shot == null)
+        {
+            Debug.LogError("Player Shot prefab not linked");
+        }
     }
 
     void Update()
@@ -31,7 +36,7 @@ public class PlayerController : MonoBehaviour
 
     private void Move(Direction pDirection)
     {
-        switch(pDirection)
+        switch (pDirection)
         {
             case Direction.NORTH:
                 transform.position += Vector3.up * MovementSpeed * Time.deltaTime;
@@ -61,6 +66,30 @@ public class PlayerController : MonoBehaviour
                 transform.position += Vector3.up * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
                 transform.position += Vector3.left * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
                 break;
+        }
+    }
+
+    private void Shoot(Direction pDirection)
+    {
+        switch (pDirection)
+        {
+            case Direction.NORTH:
+                break;
+            case Direction.NORTH_EAST:
+                break;
+            case Direction.SOUTH_EAST:
+                break;
+            case Direction.EAST:
+                break;
+            case Direction.SOUTH:
+                break;
+            case Direction.SOUTH_WEST:
+                break;
+            case Direction.WEST:
+                break;
+            case Direction.NORTH_WEST:
+                break;
+            
         }
     }
 }
