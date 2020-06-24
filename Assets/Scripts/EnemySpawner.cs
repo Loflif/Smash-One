@@ -3,34 +3,54 @@ using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
 
+[System.Serializable]
+public struct SpawnerData
+{
+    public Transform SpawnPosition;
+    public GameObject EnemyFormation;
+
+    public float SpawnDelay;
+}
+
 public class EnemySpawner : MonoBehaviour
 {
-    [SerializeField] private GameObject enemy;
-    [SerializeField] private GameObject player;
-    [SerializeField] private int count;
-    [SerializeField] private double delay;
+    [SerializeField] public List<SpawnerData> Spawns = new List<SpawnerData>();
+
     private double timeLeft;
 
-    // Start is called before the first frame update
     void Start()
     {
-        
+        SetNextTimer();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (count > 0 && timeLeft <= 0)
-        { 
-            Spawn();
-            count--;
-            timeLeft = delay;
+        if(timeLeft < 0)
+        {
+            SpawnNext();
         }
-        timeLeft -= (0.5f * Time.deltaTime);
+        timeLeft -= Time.deltaTime;
     }
 
-    void Spawn()
+    void SpawnNext()
     {
-        Instantiate(enemy, transform);
+        if (Spawns.Count <= 0)
+            return;
+        
+        Instantiate(Spawns[0].EnemyFormation, Spawns[0].SpawnPosition);
+        SetNextTimer();
+
+        if (Spawns.Count > 0)
+        {
+            Spawns.RemoveAt(0);
+        }
+    }
+
+    void SetNextTimer()
+    {
+        if (Spawns.Count <= 0)
+            return;
+
+        timeLeft = Spawns[0].SpawnDelay;
     }
 }
