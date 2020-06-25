@@ -5,6 +5,8 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private GameObject Shot = null;
+    [SerializeField] private GameObject SpreadShot = null;
+    private GameObject CurrentAmmo;
 
     [SerializeField] private KeyCode UpKey = KeyCode.W;
     [SerializeField] private KeyCode RightKey = KeyCode.D;
@@ -22,9 +24,14 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float ShootCooldown;
     private float ShootTimer = 0;
 
+    [SerializeField] private int CurrentPowerup = 0; //CurrentPowerup 0=none, 1=spreadshot
+    [SerializeField] private float PowerupDuration = 10;
+    private float PowerupTimer = 0;
+
 
     void Start()
     {
+        CurrentAmmo = Shot;
         ShootTimer = 0;
         if(Shot == null)
         {
@@ -44,6 +51,10 @@ public class PlayerController : MonoBehaviour
         else if (Input.GetKey(LeftKey)) Move(Direction.WEST);
 
         ShootTimer -= Time.deltaTime;
+        PowerupTimer -= Time.deltaTime;
+
+        if (PowerupTimer <= 0)
+            CurrentPowerup = 0;
 
         if(ShootTimer > 0)
             return;
@@ -95,34 +106,55 @@ public class PlayerController : MonoBehaviour
 
     private void Shoot(Direction pDirection)
     {
+        if (PowerupTimer > 0 && CurrentPowerup == 1)
+            CurrentAmmo = SpreadShot;
+        else
+            CurrentAmmo = Shot;
+
         ShootTimer = ShootCooldown;
         switch (pDirection)
         {
             case Direction.NORTH:
-                Instantiate(Shot, ShotOriginsN.position, ShotOriginsN.rotation, ShotParent);
+                Instantiate(CurrentAmmo, ShotOriginsN.position, ShotOriginsN.rotation, ShotParent);
                 break;
             case Direction.NORTH_EAST:
-                Instantiate(Shot, ShotOriginsNE.position, ShotOriginsNE.rotation, ShotParent);
+                Instantiate(CurrentAmmo, ShotOriginsNE.position, ShotOriginsNE.rotation, ShotParent);
                 break;
             case Direction.EAST:
-                Instantiate(Shot, ShotOriginsE.position, ShotOriginsE.rotation, ShotParent);
+                Instantiate(CurrentAmmo, ShotOriginsE.position, ShotOriginsE.rotation, ShotParent);
                 break;
             case Direction.SOUTH_EAST:
-                Instantiate(Shot, ShotOriginsSE.position, ShotOriginsSE.rotation, ShotParent);
+                Instantiate(CurrentAmmo, ShotOriginsSE.position, ShotOriginsSE.rotation, ShotParent);
                 break;
             case Direction.SOUTH:
-                Instantiate(Shot, ShotOriginsS.position, ShotOriginsS.rotation, ShotParent);
+                Instantiate(CurrentAmmo, ShotOriginsS.position, ShotOriginsS.rotation, ShotParent);
                 break;
             case Direction.SOUTH_WEST:
-                Instantiate(Shot, ShotOriginsSW.position, ShotOriginsSW.rotation, ShotParent);
+                Instantiate(CurrentAmmo, ShotOriginsSW.position, ShotOriginsSW.rotation, ShotParent);
                 break;
             case Direction.WEST:
-                Instantiate(Shot, ShotOriginsW.position, ShotOriginsW.rotation, ShotParent);
+                Instantiate(CurrentAmmo, ShotOriginsW.position, ShotOriginsW.rotation, ShotParent);
                 break;
             case Direction.NORTH_WEST:
-                Instantiate(Shot, ShotOriginsNW.position, ShotOriginsNW.rotation, ShotParent);
+                Instantiate(CurrentAmmo, ShotOriginsNW.position, ShotOriginsNW.rotation, ShotParent);
                 break;
             
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+
+    }
+
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        Debug.Log("trigger collision");
+        //powerups
+        if (collision.gameObject.tag == "Powerup")
+        {
+            CurrentPowerup = 1;
+            PowerupTimer = PowerupDuration;
         }
     }
 }
