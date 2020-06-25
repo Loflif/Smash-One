@@ -26,14 +26,27 @@ public class EnemyBehaviour : MonoBehaviour
     {
         Vector3 attackVector = player.transform.position - transform.position;
 
+        if (attackVector.x > 0)
+            Face(180);
+        else
+            Face(0);
+
         if (attackVector.magnitude > 1 && !attacking)
             Move(attackVector);
 
         else if (attackVector.magnitude <= 1 && !attacking)
         {
             attacking = true;
-            StartCoroutine(Attack(attackVector));
+            anim.Play("Base Layer.attack");
         }
+    }
+
+    void Face(float direction)
+    {
+        gameObject.transform.eulerAngles = new Vector3(
+            gameObject.transform.eulerAngles.x,
+            direction,
+            gameObject.transform.eulerAngles.z);
     }
 
     void Move(Vector3 direction)
@@ -44,19 +57,23 @@ public class EnemyBehaviour : MonoBehaviour
         transform.position += direction * Time.deltaTime;
     }
 
-    //I don't know what an IEnumerator is, but it seems to let me do this waitforseconds thing that delays the damage until the animation is done I guess
-    IEnumerator Attack(Vector3 direction)
+
+    //triggered by animation event 
+    private void DoDamage()
     {
-        anim.Play("Base Layer.attack");
-        yield return new WaitForSeconds(1);
         Vector3 distanceToPlayer = player.transform.position - transform.position;
-        if(distanceToPlayer.magnitude < 1.25f)
+        if (distanceToPlayer.magnitude < 1.25f)
         {
             //do damage to player
             Debug.Log("damage");
         }
-        attacking = false;
+    }
+
+    //triggered by animation event
+    private void EndAttack()
+    {
         anim.Play("Base Layer.walk");
+        attacking = false;
     }
 
     private void OnTriggerEnter2D(Collider2D collider)
@@ -72,4 +89,5 @@ public class EnemyBehaviour : MonoBehaviour
     {
         Destroy(gameObject);
     }
+
 }
