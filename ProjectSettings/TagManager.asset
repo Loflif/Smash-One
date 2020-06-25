@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PlayerShot
   - Powerup
+  - Level
   layers:
   - Default
   - TransparentFX

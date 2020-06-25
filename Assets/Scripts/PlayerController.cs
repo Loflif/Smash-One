@@ -151,12 +151,12 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        Debug.Log("trigger collision");
         //powerups
         if (collision.gameObject.tag == "Powerup")
         {
             CurrentPowerup = 1;
             PowerupTimer = PowerupDuration;
+            Destroy(collision.gameObject);
         }
     }
 

@@ -17,4 +17,12 @@ public class shot : MonoBehaviour
     {
         transform.position += transform.right * Time.deltaTime * speed;
     }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Level")
+        {
+            Destroy(gameObject);
+        }
+    }
 }
