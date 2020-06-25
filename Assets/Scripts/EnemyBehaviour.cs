@@ -63,6 +63,7 @@ public class EnemyBehaviour : MonoBehaviour
     {
         if(collider.gameObject.tag == "PlayerShot")
         {
+            Destroy(collider.gameObject);
             die();
         }
     }
