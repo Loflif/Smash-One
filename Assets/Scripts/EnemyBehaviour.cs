@@ -51,6 +51,7 @@ public class EnemyBehaviour : MonoBehaviour
 
     void Move(Vector3 direction)
     {
+        anim.Play("Base Layer.walk");
         direction.Normalize();
         direction *= speed;
 
@@ -66,13 +67,14 @@ public class EnemyBehaviour : MonoBehaviour
         {
             //do damage to player
             Debug.Log("damage");
+            player.GetComponent<PlayerController>().takeDamage();
         }
     }
 
     //triggered by animation event
     private void EndAttack()
     {
-        anim.Play("Base Layer.walk");
+        anim.Play("Base Layer.idle");
         attacking = false;
     }
 

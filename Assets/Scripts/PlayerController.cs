@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private GameObject Shot = null;
-    [SerializeField] private GameObject SpreadShot = null;
+    [SerializeField] private GameObject Shot;
+    [SerializeField] private GameObject SpreadShot;
     private GameObject CurrentAmmo;
+
+    [SerializeField] public int HP;
 
     [SerializeField] private KeyCode UpKey = KeyCode.W;
     [SerializeField] private KeyCode RightKey = KeyCode.D;
@@ -156,5 +158,19 @@ public class PlayerController : MonoBehaviour
             CurrentPowerup = 1;
             PowerupTimer = PowerupDuration;
         }
+    }
+
+    public void takeDamage()
+    {
+        HP--;
+        if(HP <= 0)
+        {
+            Die();
+        }
+    }
+
+    public void Die()
+    {
+        Destroy(gameObject);
     }
 }
