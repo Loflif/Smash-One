@@ -1,0 +1,3326 @@
+fileFormatVersion: 2
+guid: 1b5edd8502fd66a4395429cd5b814f67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2462621756858016408
+    second: SmashGuy_0
+  - first:
+      213: 5905168898524368003
+    second: SmashGuy_1
+  - first:
+      213: 3025705214292502311
+    second: SmashGuy_2
+  - first:
+      213: 9120620947685704459
+    second: SmashGuy_3
+  - first:
+      213: 8743574018524896737
+    second: SmashGuy_4
+  - first:
+      213: -5691660252331557745
+    second: SmashGuy_5
+  - first:
+      213: 841792032008738563
+    second: SmashGuy_6
+  - first:
+      213: 5111880695352576328
+    second: SmashGuy_7
+  - first:
+      213: 8367465954269060721
+    second: SmashGuy_8
+  - first:
+      213: 849250095930948352
+    second: SmashGuy_9
+  - first:
+      213: 2729245023886691239
+    second: SmashGuy_10
+  - first:
+      213: 5528265345041348652
+    second: SmashGuy_11
+  - first:
+      213: -571278648353969721
+    second: SmashGuy_12
+  - first:
+      213: 5493168846807666311
+    second: SmashGuy_13
+  - first:
+      213: -1822483064658361212
+    second: SmashGuy_14
+  - first:
+      213: -3565686841944421938
+    second: SmashGuy_15
+  - first:
+      213: 3014141569845948792
+    second: SmashGuy_16
+  - first:
+      213: 7469535950104268204
+    second: SmashGuy_17
+  - first:
+      213: -6698728650875785857
+    second: SmashGuy_18
+  - first:
+      213: -2747621226056667060
+    second: SmashGuy_19
+  - first:
+      213: -6843750373196553705
+    second: SmashGuy_20
+  - first:
+      213: -5814016839559955767
+    second: SmashGuy_21
+  - first:
+      213: 4978333205415062150
+    second: SmashGuy_22
+  - first:
+      213: -528220905448861989
+    second: SmashGuy_23
+  - first:
+      213: 6760369606887874297
+    second: SmashGuy_24
+  - first:
+      213: 1099923267347852176
+    second: SmashGuy_25
+  - first:
+      213: -9049793293855336551
+    second: SmashGuy_26
+  - first:
+      213: 2102584460245332324
+    second: SmashGuy_27
+  - first:
+      213: 7926812957966979937
+    second: SmashGuy_28
+  - first:
+      213: 7643280707062873295
+    second: SmashGuy_29
+  - first:
+      213: 6039560463146033478
+    second: SmashGuy_30
+  - first:
+      213: 1491051922063155380
+    second: SmashGuy_31
+  - first:
+      213: -5990189061928509742
+    second: SmashGuy_32
+  - first:
+      213: 383005423829170730
+    second: SmashGuy_33
+  - first:
+      213: -7582013105197065530
+    second: SmashGuy_34
+  - first:
+      213: 1761827007771155785
+    second: SmashGuy_35
+  - first:
+      213: 4060174200199439201
+    second: SmashGuy_36
+  - first:
+      213: 411552013488872285
+    second: SmashGuy_37
+  - first:
+      213: 6409375423954513678
+    second: SmashGuy_38
+  - first:
+      213: 1597905839249797779
+    second: SmashGuy_39
+  - first:
+      213: 429173539926131134
+    second: SmashGuy_40
+  - first:
+      213: -3372583926641253271
+    second: SmashGuy_41
+  - first:
+      213: 7410416719699361241
+    second: SmashGuy_42
+  - first:
+      213: 2720807530852005540
+    second: SmashGuy_43
+  - first:
+      213: -6314789718569681782
+    second: SmashGuy_44
+  - first:
+      213: 190337569820185881
+    second: SmashGuy_45
+  - first:
+      213: 8746888142523702076
+    second: SmashGuy_46
+  - first:
+      213: 2650081629998497815
+    second: SmashGuy_47
+  - first:
+      213: 6700377164038882597
+    second: SmashGuy_48
+  - first:
+      213: 6222603466743498494
+    second: SmashGuy_49
+  - first:
+      213: -4555916451868126559
+    second: SmashGuy_50
+  - first:
+      213: -8672122019096203299
+    second: SmashGuy_51
+  - first:
+      213: 669470206480496760
+    second: SmashGuy_52
+  - first:
+      213: 4479705574768739218
+    second: SmashGuy_53
+  - first:
+      213: 2324205210376882446
+    second: SmashGuy_54
+  - first:
+      213: -3967050603903517985
+    second: SmashGuy_55
+  - first:
+      213: 895233484566288230
+    second: SmashGuy_56
+  - first:
+      213: 3556221668422955580
+    second: SmashGuy_57
+  - first:
+      213: 8191410634817614688
+    second: SmashGuy_58
+  - first:
+      213: -6933785906106008825
+    second: SmashGuy_59
+  - first:
+      213: 954854669427297426
+    second: SmashGuy_60
+  - first:
+      213: 3239643290248475168
+    second: SmashGuy_61
+  - first:
+      213: -8808965799879018006
+    second: SmashGuy_62
+  - first:
+      213: -2516739646840954054
+    second: SmashGuy_63
+  - first:
+      213: 5027781919474325599
+    second: SmashGuy_64
+  - first:
+      213: -3918495703652722699
+    second: SmashGuy_65
+  - first:
+      213: 6583407145738015070
+    second: SmashGuy_66
+  - first:
+      213: 3978234140498228111
+    second: SmashGuy_67
+  - first:
+      213: -5053265675293574455
+    second: SmashGuy_68
+  - first:
+      213: -4201576355167727398
+    second: SmashGuy_69
+  - first:
+      213: 8244396241349321156
+    second: SmashGuy_70
+  - first:
+      213: -2072724593622873956
+    second: SmashGuy_71
+  - first:
+      213: -1431175473057437161
+    second: SmashGuy_72
+  - first:
+      213: 4034660116460941510
+    second: SmashGuy_73
+  - first:
+      213: 6398174474278689027
+    second: SmashGuy_74
+  - first:
+      213: -8819457309563870134
+    second: SmashGuy_75
+  - first:
+      213: -3646113442722284290
+    second: SmashGuy_76
+  - first:
+      213: 889884485867262532
+    second: SmashGuy_77
+  - first:
+      213: -5202366162090928240
+    second: SmashGuy_78
+  - first:
+      213: 8300729457978720233
+    second: SmashGuy_79
+  - first:
+      213: -6707256685692409172
+    second: SmashGuy_80
+  - first:
+      213: 6776966489886811928
+    second: SmashGuy_81
+  - first:
+      213: 594781904210242882
+    second: SmashGuy_82
+  - first:
+      213: 3227180599228392965
+    second: SmashGuy_83
+  - first:
+      213: -6161476846948375634
+    second: SmashGuy_84
+  - first:
+      213: 8394252222816747280
+    second: SmashGuy_85
+  - first:
+      213: 2414816302576627035
+    second: SmashGuy_86
+  - first:
+      213: 4504342468100053582
+    second: SmashGuy_87
+  - first:
+      213: -8271412362374849191
+    second: SmashGuy_88
+  - first:
+      213: -5141346824126706538
+    second: SmashGuy_89
+  - first:
+      213: -5291223371199587567
+    second: SmashGuy_90
+  - first:
+      213: 2704204760186385231
+    second: SmashGuy_91
+  - first:
+      213: -611294700735123746
+    second: SmashGuy_92
+  - first:
+      213: 9141497596318684729
+    second: SmashGuy_93
+  - first:
+      213: 8782273930936107387
+    second: SmashGuy_94
+  - first:
+      213: 6677888986603819738
+    second: SmashGuy_95
+  - first:
+      213: -2217296707547248547
+    second: SmashGuy_96
+  - first:
+      213: -1789253837911499973
+    second: SmashGuy_97
+  - first:
+      213: -5652741912210294896
+    second: SmashGuy_98
+  - first:
+      213: 85837966315871269
+    second: SmashGuy_99
+  - first:
+      213: 4512309900866289581
+    second: SmashGuy_100
+  - first:
+      213: 4104008334818089243
+    second: SmashGuy_101
+  - first:
+      213: 7218973106424834366
+    second: SmashGuy_102
+  - first:
+      213: 313457901609543732
+    second: SmashGuy_103
+  - first:
+      213: -3978046389341975653
+    second: SmashGuy_104
+  - first:
+      213: 8287029696818633449
+    second: SmashGuy_105
+  - first:
+      213: -5902799204414223295
+    second: SmashGuy_106
+  - first:
+      213: 3210939061788829079
+    second: SmashGuy_107
+  - first:
+      213: -4328490594734036117
+    second: SmashGuy_108
+  - first:
+      213: -4059531963049761105
+    second: SmashGuy_109
+  - first:
+      213: 6794298734652110185
+    second: SmashGuy_110
+  - first:
+      213: -5540949812078656129
+    second: SmashGuy_111
+  - first:
+      213: -5649884899384952935
+    second: SmashGuy_112
+  - first:
+      213: -2198944589879451067
+    second: SmashGuy_113
+  - first:
+      213: 2139335705404515555
+    second: SmashGuy_114
+  - first:
+      213: 6648244764955176411
+    second: SmashGuy_115
+  - first:
+      213: -3988965835067796023
+    second: SmashGuy_116
+  - first:
+      213: 8213439377195232703
+    second: SmashGuy_117
+  - first:
+      213: -6802597429584186230
+    second: SmashGuy_118
+  - first:
+      213: -4204160613438318163
+    second: SmashGuy_119
+  - first:
+      213: 954071669141420599
+    second: SmashGuy_120
+  - first:
+      213: -8925858048995358673
+    second: SmashGuy_121
+  - first:
+      213: -3934149357540882552
+    second: SmashGuy_122
+  - first:
+      213: 710995857346016612
+    second: SmashGuy_123
+  - first:
+      213: 9061348438486430079
+    second: SmashGuy_124
+  - first:
+      213: -5811983363737372880
+    second: SmashGuy_125
+  - first:
+      213: 3205541090919611200
+    second: SmashGuy_126
+  - first:
+      213: 5406114705081503075
+    second: SmashGuy_127
+  - first:
+      213: 2946487239556142089
+    second: SmashGuy_128
+  - first:
+      213: -316255145767763530
+    second: SmashGuy_129
+  - first:
+      213: 3825024341774201469
+    second: SmashGuy_130
+  - first:
+      213: -6788323325011812712
+    second: SmashGuy_131
+  - first:
+      213: -6946634143021786841
+    second: SmashGuy_132
+  - first:
+      213: 4857324595226707246
+    second: SmashGuy_133
+  - first:
+      213: -1439394275555171227
+    second: SmashGuy_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmashGuy_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 243
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d54564f8203ddd0800000000000000
+      internalID: -2462621756858016408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 244
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cca3783df53f150800000000000000
+      internalID: 5905168898524368003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 244
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727a3fc8cd67df920800000000000000
+      internalID: 3025705214292502311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 243
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b030bc5cd64f29e70800000000000000
+      internalID: 9120620947685704459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 242
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd2819e3a675970800000000000000
+      internalID: 8743574018524896737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 244
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c319df7292301b0800000000000000
+      internalID: -5691660252331557745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 244
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30792a2a465aeab00800000000000000
+      internalID: 841792032008738563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 244
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849caa4986c01f640800000000000000
+      internalID: 5111880695352576328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 244
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ed162e3f53f1470800000000000000
+      internalID: 8367465954269060721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 245
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b3e65767429cb00800000000000000
+      internalID: 849250095930948352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 245
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc4c993e930e520800000000000000
+      internalID: 2729245023886691239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 245
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ba439a0858bc40800000000000000
+      internalID: 5528265345041348652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 244
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a81998196218f0800000000000000
+      internalID: -571278648353969721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 244
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e863d46f7ab3c40800000000000000
+      internalID: 5493168846807666311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848fd10f4d35b6e0800000000000000
+      internalID: -1822483064658361212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 230
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94e9585b2248ec0800000000000000
+      internalID: -3565686841944421938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f765c9c164d920800000000000000
+      internalID: 3014141569845948792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 230
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad89fe0f5f19a760800000000000000
+      internalID: 7469535950104268204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d21dd88c55903a0800000000000000
+      internalID: -6698728650875785857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 230
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b19b6d0d7ed9d0800000000000000
+      internalID: -2747621226056667060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 230
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122c2a9b4d1601a0800000000000000
+      internalID: -6843750373196553705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 228
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab3e70d76705fa0800000000000000
+      internalID: -5814016839559955767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 228
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aeb4a8ca7961540800000000000000
+      internalID: 4978333205415062150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 229
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde09c792e16ba8f0800000000000000
+      internalID: -528220905448861989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 230
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe16e8e658a1dd50800000000000000
+      internalID: 6760369606887874297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 228
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba47e4266b34f00800000000000000
+      internalID: 1099923267347852176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 228
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9975a0572fca86280800000000000000
+      internalID: -9049793293855336551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 229
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461fd273d61ed2d10800000000000000
+      internalID: 2102584460245332324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 211
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d5902362b10e60800000000000000
+      internalID: 7926812957966979937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 213
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc3417ae43621a60800000000000000
+      internalID: 7643280707062873295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 213
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64120550e34d0d350800000000000000
+      internalID: 6039560463146033478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 211
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ec3cb2d741b410800000000000000
+      internalID: 1491051922063155380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 213
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de125a19c29edca0800000000000000
+      internalID: -5990189061928509742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 213
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab26a5765b05500800000000000000
+      internalID: 383005423829170730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 213
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5f56804747c690800000000000000
+      internalID: -7582013105197065530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 213
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d93e93454437810800000000000000
+      internalID: 1761827007771155785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 212
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e7116ce2a85830800000000000000
+      internalID: 4060174200199439201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 211
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bd992306026b500800000000000000
+      internalID: 411552013488872285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 213
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f6de06dfca2f850800000000000000
+      internalID: 6409375423954513678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 188
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392b10d05e6ec2610800000000000000
+      internalID: 1597905839249797779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 185
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14b4a8f0bb4f500800000000000000
+      internalID: 429173539926131134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 186
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9642b5599cc2231d0800000000000000
+      internalID: -3372583926641253271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddbb479eb617d660800000000000000
+      internalID: 7410416719699361241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a634aaa80042c520800000000000000
+      internalID: 2720807530852005540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 187
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c7d59453c5d58a0800000000000000
+      internalID: -6314789718569681782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 188
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151b84e20734a200800000000000000
+      internalID: 190337569820185881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 190
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b93313c60336970800000000000000
+      internalID: 8746888142523702076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 159
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71049d5a33bf6c420800000000000000
+      internalID: 2650081629998497815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 159
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5254da3d7858cfc50800000000000000
+      internalID: 6700377164038882597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 156
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef64c5d52e02b5650800000000000000
+      internalID: 6222603466743498494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 157
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2da04102226c0c0800000000000000
+      internalID: -4555916451868126559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 158
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6de278fe66a780800000000000000
+      internalID: -8672122019096203299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 159
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783af41b9f6a4900800000000000000
+      internalID: 669470206480496760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_53
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938d6a5c7c1b2e30800000000000000
+      internalID: 4479705574768739218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_54
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 157
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0940ad135c314020800000000000000
+      internalID: 2324205210376882446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaf45c7e7432f8c0800000000000000
+      internalID: -3967050603903517985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 123
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667db9e6c128c6c00800000000000000
+      internalID: 895233484566288230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32b5e804cc3a5130800000000000000
+      internalID: 3556221668422955580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_58
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 127
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06339a9829cbda170800000000000000
+      internalID: 8191410634817614688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 127
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bf0f5847e36cf90800000000000000
+      internalID: -6933785906106008825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 118
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c46574343504d00800000000000000
+      internalID: 954854669427297426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_61
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 124
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022fc3a786685fc20800000000000000
+      internalID: 3239643290248475168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_62
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 127
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae975a3e64440c580800000000000000
+      internalID: -8808965799879018006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3327ed10aeb21dd0800000000000000
+      internalID: -2516739646840954054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_64
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 95
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581666740546c540800000000000000
+      internalID: 5027781919474325599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 94
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f792e92be4be99c0800000000000000
+      internalID: -3918495703652722699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_66
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 93
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e519b7d2be5fc5b50800000000000000
+      internalID: 6583407145738015070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_67
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 94
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f837ab98fd6853730800000000000000
+      internalID: 3978234140498228111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab37444a13fd9b0800000000000000
+      internalID: -5053265675293574455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_69
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 94
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad01c8dd09001b5c0800000000000000
+      internalID: -4201576355167727398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_70
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 93
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1213963baf96270800000000000000
+      internalID: 8244396241349321156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 60
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9884efb6f33c33e0800000000000000
+      internalID: -2072724593622873956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 62
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ae82d6d71732ce0800000000000000
+      internalID: -1431175473057437161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c03717dffdfdf730800000000000000
+      internalID: 4034660116460941510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 62
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095a5e09c1eac850800000000000000
+      internalID: 6398174474278689027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_75
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4429bfed4efa9580800000000000000
+      internalID: -8819457309563870134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcf2cb4427666dc0800000000000000
+      internalID: -3646113442722284290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442df3f9931895c00800000000000000
+      internalID: 889884485867262532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 40
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097de05f98b7dc7b0800000000000000
+      internalID: -5202366162090928240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 40
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef317f767d123370800000000000000
+      internalID: 8300729457978720233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_80
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 40
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa0f7b4990be2a0800000000000000
+      internalID: -6707256685692409172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 41
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ed6cdd1f9c0e50800000000000000
+      internalID: 6776966489886811928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 34
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d28479df6114800800000000000000
+      internalID: 594781904210242882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_83
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 34
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5066a0b18af39cc20800000000000000
+      internalID: 3227180599228392965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_84
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 35
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea329ddd3790e7aa0800000000000000
+      internalID: -6161476846948375634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_85
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 34
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f76080cef5e7470800000000000000
+      internalID: 8394252222816747280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_86
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 44
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5de6e802a6238120800000000000000
+      internalID: 2414816302576627035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_87
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 40
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a5fc51c93a28e30800000000000000
+      internalID: 4504342468100053582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_88
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 42
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d5fddb74a063d80800000000000000
+      internalID: -8271412362374849191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c48d0bd4446a8b0800000000000000
+      internalID: -5141346824126706538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b5764c06cc196b0800000000000000
+      internalID: -5291223371199587567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4374d2e6e3478520800000000000000
+      internalID: 2704204760186385231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_92
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeaa9d55be3487f0800000000000000
+      internalID: -611294700735123746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_93
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93699af41af1dde70800000000000000
+      internalID: 9141497596318684729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_94
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71ce951c97e0e970800000000000000
+      internalID: 8782273930936107387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_95
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2930007a0acac50800000000000000
+      internalID: 6677888986603819738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_96
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58c00964649a31e0800000000000000
+      internalID: -2217296707547248547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_97
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 33
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd7424d1b4b27e0800000000000000
+      internalID: -1789253837911499973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0973ebb2e2d6d81b0800000000000000
+      internalID: -5652741912210294896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_99
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 34
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cdf72fc25f03100800000000000000
+      internalID: 85837966315871269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_100
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daffc9592f1fe9e30800000000000000
+      internalID: 4512309900866289581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_101
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 24
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19131826dd54f830800000000000000
+      internalID: 4104008334818089243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 24
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39ec83eac1fe2460800000000000000
+      internalID: 7218973106424834366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_103
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 28
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438e97dfc40a95400800000000000000
+      internalID: 313457901609543732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0f3fa2e32bc8c0800000000000000
+      internalID: -3978046389341975653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_105
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eadcf94a91710370800000000000000
+      internalID: 8287029696818633449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_106
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8e60e56b051ea0800000000000000
+      internalID: -5902799204414223295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_107
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795695d701c8f8c20800000000000000
+      internalID: 3210939061788829079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b2247ccbc1ee3c0800000000000000
+      internalID: -4328490594734036117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_109
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6231c1035a9a7c0800000000000000
+      internalID: -4059531963049761105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96533d093b23a4e50800000000000000
+      internalID: 6794298734652110185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75c8ccc0879a13b0800000000000000
+      internalID: -5540949812078656129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_112
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 16
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f05e4e939791b0800000000000000
+      internalID: -5649884899384952935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_113
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542e777cb87cb71e0800000000000000
+      internalID: -2198944589879451067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 20
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e422f74d7270bd10800000000000000
+      internalID: 2139335705404515555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdde00bc36f434c50800000000000000
+      internalID: 6648244764955176411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_116
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c55d9b15b854a8c0800000000000000
+      internalID: -3988965835067796023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd6dedc89ffbf170800000000000000
+      internalID: 8213439377195232703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_118
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8436a3fda15891a0800000000000000
+      internalID: -6802597429584186230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_119
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 8
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da912595232d7a5c0800000000000000
+      internalID: -4204160613438318163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_120
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 8
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a3071d02b8d3d00800000000000000
+      internalID: 954071669141420599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 12
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28021a456bf02480800000000000000
+      internalID: -8925858048995358673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 10
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887c17ad0081769c0800000000000000
+      internalID: -3934149357540882552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_123
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46532e917f6fdd900800000000000000
+      internalID: 710995857346016612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71360e456060cd70800000000000000
+      internalID: 9061348438486430079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03734f38cefa75fa0800000000000000
+      internalID: -5811983363737372880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_126
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b7e2573ae5c7c20800000000000000
+      internalID: 3205541090919611200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d06637ea0660b40800000000000000
+      internalID: 5406114705081503075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_128
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90417f0888604e820800000000000000
+      internalID: 2946487239556142089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_129
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b18f1ade9f6c9bf0800000000000000
+      internalID: -316255145767763530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_130
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d727cac7f57351530800000000000000
+      internalID: 3825024341774201469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_131
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e1c28e6e70bc1a0800000000000000
+      internalID: -6788323325011812712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmashGuy_132
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72916904d09989f90800000000000000
+      internalID: -6946634143021786841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

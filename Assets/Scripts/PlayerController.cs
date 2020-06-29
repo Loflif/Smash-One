@@ -30,9 +30,14 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float PowerupDuration = 10;
     private float PowerupTimer = 0;
 
+    [SerializeField] private PlayerChestBehaviour chest;
+    [SerializeField] private Animator legs;
+
+
 
     void Start()
     {
+        legs.Play("pants down");
         CurrentAmmo = Shot;
         ShootTimer = 0;
         if(Shot == null)
@@ -77,31 +82,45 @@ public class PlayerController : MonoBehaviour
         {
             case Direction.NORTH:
                 transform.position += Vector3.up * MovementSpeed * Time.deltaTime;
+                legs.Play("pants up");
                 break;
             case Direction.NORTH_EAST:
                 transform.position += Vector3.up * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
                 transform.position += Vector3.right * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                legs.Play("pants up right");
+                legsLeftRight(0);
                 break;
             case Direction.EAST:
                 transform.position += Vector3.right * MovementSpeed * Time.deltaTime;
+                legs.Play("pants right");
+                legsLeftRight(0);
                 break;
             case Direction.SOUTH_EAST:
                 transform.position += Vector3.down * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
                 transform.position += Vector3.right * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                legs.Play("pants down right");
+                legsLeftRight(0);
                 break;
             case Direction.SOUTH:
                 transform.position += Vector3.down * MovementSpeed * Time.deltaTime;
+                legs.Play("pants down");
                 break;
             case Direction.SOUTH_WEST:
                 transform.position += Vector3.down * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
                 transform.position += Vector3.left * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                legs.Play("pants down right");
+                legsLeftRight(180);
                 break;
             case Direction.WEST:
                 transform.position += Vector3.left * MovementSpeed * Time.deltaTime;
+                legs.Play("pants right");
+                legsLeftRight(180);
                 break;
             case Direction.NORTH_WEST:
                 transform.position += Vector3.up * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
                 transform.position += Vector3.left * Mathf.Sqrt(2) / 2 * MovementSpeed * Time.deltaTime;
+                legs.Play("pants up right");
+                legsLeftRight(180);
                 break;
         }
     }
@@ -118,36 +137,40 @@ public class PlayerController : MonoBehaviour
         {
             case Direction.NORTH:
                 Instantiate(CurrentAmmo, ShotOriginsN.position, ShotOriginsN.rotation, ShotParent);
+                chest.face(0);
                 break;
             case Direction.NORTH_EAST:
                 Instantiate(CurrentAmmo, ShotOriginsNE.position, ShotOriginsNE.rotation, ShotParent);
+                chest.face(1);
                 break;
             case Direction.EAST:
                 Instantiate(CurrentAmmo, ShotOriginsE.position, ShotOriginsE.rotation, ShotParent);
+                chest.face(2);
                 break;
             case Direction.SOUTH_EAST:
                 Instantiate(CurrentAmmo, ShotOriginsSE.position, ShotOriginsSE.rotation, ShotParent);
+                chest.face(3);
                 break;
             case Direction.SOUTH:
                 Instantiate(CurrentAmmo, ShotOriginsS.position, ShotOriginsS.rotation, ShotParent);
+                chest.face(4);
                 break;
             case Direction.SOUTH_WEST:
                 Instantiate(CurrentAmmo, ShotOriginsSW.position, ShotOriginsSW.rotation, ShotParent);
+                chest.face(5);
                 break;
             case Direction.WEST:
                 Instantiate(CurrentAmmo, ShotOriginsW.position, ShotOriginsW.rotation, ShotParent);
+                chest.face(6);
                 break;
             case Direction.NORTH_WEST:
                 Instantiate(CurrentAmmo, ShotOriginsNW.position, ShotOriginsNW.rotation, ShotParent);
+                chest.face(7);
                 break;
             
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-
-    }
 
     private void OnTriggerStay2D(Collider2D collision)
     {
@@ -158,6 +181,16 @@ public class PlayerController : MonoBehaviour
             PowerupTimer = PowerupDuration;
             Destroy(collision.gameObject);
         }
+    }
+
+    //180 to face legs right. 0 to face left
+    void legsLeftRight(int direction)
+    {
+        GameObject legsGO = legs.transform.gameObject;
+        legsGO.transform.eulerAngles = new Vector3(
+            gameObject.transform.eulerAngles.x,
+            direction,
+            gameObject.transform.eulerAngles.z);
     }
 
     public void takeDamage()

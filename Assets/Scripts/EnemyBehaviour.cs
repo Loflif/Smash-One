@@ -26,6 +26,7 @@ public class EnemyBehaviour : MonoBehaviour
     {
         Vector3 attackVector = player.transform.position - transform.position;
 
+        //mirror by rotating, if enemy should face right
         if (attackVector.x > 0)
             Face(180);
         else
@@ -41,6 +42,8 @@ public class EnemyBehaviour : MonoBehaviour
         }
     }
 
+
+    //180 to face right. 0 to face left
     void Face(float direction)
     {
         gameObject.transform.eulerAngles = new Vector3(
