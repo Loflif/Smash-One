@@ -9,6 +9,7 @@ public class EnemyBehaviour : MonoBehaviour
     [SerializeField] private GameObject player;
     [SerializeField] private float speed;
     [SerializeField] private int hp;
+    [SerializeField] private GameObject drop;
     private Animator anim;
     private bool attacking = false;
 
@@ -92,6 +93,7 @@ public class EnemyBehaviour : MonoBehaviour
 
     void die()
     {
+        Instantiate(drop, transform.position, transform.rotation);
         Destroy(gameObject);
     }
 

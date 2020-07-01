@@ -37,7 +37,7 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        legs.Play("pants down");
+        legs.Play("pants stand still");
         CurrentAmmo = Shot;
         ShootTimer = 0;
         if(Shot == null)
@@ -56,6 +56,7 @@ public class PlayerController : MonoBehaviour
         else if (Input.GetKey(RightKey)) Move(Direction.EAST);
         else if (Input.GetKey(DownKey)) Move(Direction.SOUTH);
         else if (Input.GetKey(LeftKey)) Move(Direction.WEST);
+        else legs.Play("pants stand still");
 
         ShootTimer -= Time.deltaTime;
         PowerupTimer -= Time.deltaTime;
