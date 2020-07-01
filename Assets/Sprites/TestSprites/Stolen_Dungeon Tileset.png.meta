@@ -1,0 +1,7180 @@
+fileFormatVersion: 2
+guid: 2f9fa2a815a3ff648bd31ad7464ceb00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9153188633400645021
+    second: Stolen_Dungeon Tileset_0
+  - first:
+      213: 2304136937326793479
+    second: Stolen_Dungeon Tileset_1
+  - first:
+      213: -8661230858475376415
+    second: Stolen_Dungeon Tileset_2
+  - first:
+      213: 7581061409411403716
+    second: Stolen_Dungeon Tileset_3
+  - first:
+      213: 1054767190758637595
+    second: Stolen_Dungeon Tileset_4
+  - first:
+      213: -3014605972304986163
+    second: Stolen_Dungeon Tileset_5
+  - first:
+      213: 5064546082437989367
+    second: Stolen_Dungeon Tileset_6
+  - first:
+      213: -103088926892779937
+    second: Stolen_Dungeon Tileset_7
+  - first:
+      213: -3260854104308089660
+    second: Stolen_Dungeon Tileset_8
+  - first:
+      213: -3497065111486638068
+    second: Stolen_Dungeon Tileset_9
+  - first:
+      213: -4499188614182939777
+    second: Stolen_Dungeon Tileset_10
+  - first:
+      213: -1571885145850228168
+    second: Stolen_Dungeon Tileset_11
+  - first:
+      213: 175320090511503989
+    second: Stolen_Dungeon Tileset_12
+  - first:
+      213: -6120332791645976778
+    second: Stolen_Dungeon Tileset_13
+  - first:
+      213: -8429857270885793483
+    second: Stolen_Dungeon Tileset_14
+  - first:
+      213: 2145399606013335859
+    second: Stolen_Dungeon Tileset_15
+  - first:
+      213: 4238731842361467911
+    second: Stolen_Dungeon Tileset_16
+  - first:
+      213: -8975939963019748574
+    second: Stolen_Dungeon Tileset_17
+  - first:
+      213: -3316739754584288132
+    second: Stolen_Dungeon Tileset_18
+  - first:
+      213: 6262832811222989843
+    second: Stolen_Dungeon Tileset_19
+  - first:
+      213: -3267747708777826789
+    second: Stolen_Dungeon Tileset_20
+  - first:
+      213: -55741657531504718
+    second: Stolen_Dungeon Tileset_21
+  - first:
+      213: -8095406759382479773
+    second: Stolen_Dungeon Tileset_22
+  - first:
+      213: -789526213869347291
+    second: Stolen_Dungeon Tileset_23
+  - first:
+      213: 2429088934372965045
+    second: Stolen_Dungeon Tileset_24
+  - first:
+      213: 4887723193045681796
+    second: Stolen_Dungeon Tileset_25
+  - first:
+      213: -3065469574072542084
+    second: Stolen_Dungeon Tileset_26
+  - first:
+      213: -6187005640520685670
+    second: Stolen_Dungeon Tileset_27
+  - first:
+      213: -7426230895827728571
+    second: Stolen_Dungeon Tileset_28
+  - first:
+      213: -776072552121866818
+    second: Stolen_Dungeon Tileset_29
+  - first:
+      213: 6678019440245507401
+    second: Stolen_Dungeon Tileset_30
+  - first:
+      213: -2978777427218871676
+    second: Stolen_Dungeon Tileset_31
+  - first:
+      213: -7439052664481691101
+    second: Stolen_Dungeon Tileset_32
+  - first:
+      213: 2390469969645872983
+    second: Stolen_Dungeon Tileset_33
+  - first:
+      213: 8864681715148797389
+    second: Stolen_Dungeon Tileset_34
+  - first:
+      213: -8580101057876025094
+    second: Stolen_Dungeon Tileset_35
+  - first:
+      213: -8430153901978923263
+    second: Stolen_Dungeon Tileset_36
+  - first:
+      213: -8086813433164735094
+    second: Stolen_Dungeon Tileset_37
+  - first:
+      213: 4787752089220416267
+    second: Stolen_Dungeon Tileset_38
+  - first:
+      213: 4030648842145963131
+    second: Stolen_Dungeon Tileset_39
+  - first:
+      213: 7198604711165217276
+    second: Stolen_Dungeon Tileset_40
+  - first:
+      213: -3164913971153812
+    second: Stolen_Dungeon Tileset_41
+  - first:
+      213: 3255145901358262395
+    second: Stolen_Dungeon Tileset_42
+  - first:
+      213: 3383328042527576853
+    second: Stolen_Dungeon Tileset_43
+  - first:
+      213: 8420301450859731006
+    second: Stolen_Dungeon Tileset_44
+  - first:
+      213: 8400258534092422507
+    second: Stolen_Dungeon Tileset_45
+  - first:
+      213: -3843272763560397609
+    second: Stolen_Dungeon Tileset_46
+  - first:
+      213: 5082562753355720716
+    second: Stolen_Dungeon Tileset_47
+  - first:
+      213: 213628561053686064
+    second: Stolen_Dungeon Tileset_48
+  - first:
+      213: 5066347046014569016
+    second: Stolen_Dungeon Tileset_49
+  - first:
+      213: 3603450180069646857
+    second: Stolen_Dungeon Tileset_50
+  - first:
+      213: 8405786049781320119
+    second: Stolen_Dungeon Tileset_51
+  - first:
+      213: -5376295825879640787
+    second: Stolen_Dungeon Tileset_52
+  - first:
+      213: 19334948509845823
+    second: Stolen_Dungeon Tileset_53
+  - first:
+      213: 5751342287094010414
+    second: Stolen_Dungeon Tileset_54
+  - first:
+      213: -6286475019390713668
+    second: Stolen_Dungeon Tileset_55
+  - first:
+      213: 3186507394275766779
+    second: Stolen_Dungeon Tileset_56
+  - first:
+      213: -4208589631028539698
+    second: Stolen_Dungeon Tileset_57
+  - first:
+      213: -7795375784351536177
+    second: Stolen_Dungeon Tileset_58
+  - first:
+      213: -4956781970184952382
+    second: Stolen_Dungeon Tileset_59
+  - first:
+      213: -5729179978492877688
+    second: Stolen_Dungeon Tileset_60
+  - first:
+      213: -8728412310062884069
+    second: Stolen_Dungeon Tileset_61
+  - first:
+      213: 8781313653344306132
+    second: Stolen_Dungeon Tileset_62
+  - first:
+      213: 1158700062263033441
+    second: Stolen_Dungeon Tileset_63
+  - first:
+      213: 671583215208888850
+    second: Stolen_Dungeon Tileset_64
+  - first:
+      213: 3979220299714001940
+    second: Stolen_Dungeon Tileset_65
+  - first:
+      213: 1631457522132947236
+    second: Stolen_Dungeon Tileset_66
+  - first:
+      213: 512354959720093808
+    second: Stolen_Dungeon Tileset_67
+  - first:
+      213: -6350517165785798502
+    second: Stolen_Dungeon Tileset_68
+  - first:
+      213: -2547403726392282231
+    second: Stolen_Dungeon Tileset_69
+  - first:
+      213: 1665265418641230612
+    second: Stolen_Dungeon Tileset_70
+  - first:
+      213: 6059433240283915020
+    second: Stolen_Dungeon Tileset_71
+  - first:
+      213: 8391944912350868616
+    second: Stolen_Dungeon Tileset_72
+  - first:
+      213: 1025050637137549840
+    second: Stolen_Dungeon Tileset_73
+  - first:
+      213: -1522539137600504487
+    second: Stolen_Dungeon Tileset_74
+  - first:
+      213: 1444272546768692022
+    second: Stolen_Dungeon Tileset_75
+  - first:
+      213: 3123498262924270279
+    second: Stolen_Dungeon Tileset_76
+  - first:
+      213: -3226701108706811935
+    second: Stolen_Dungeon Tileset_77
+  - first:
+      213: 6989193770380964972
+    second: Stolen_Dungeon Tileset_78
+  - first:
+      213: 4393559606371991311
+    second: Stolen_Dungeon Tileset_79
+  - first:
+      213: 7432096169402742412
+    second: Stolen_Dungeon Tileset_80
+  - first:
+      213: 8330707559794701481
+    second: Stolen_Dungeon Tileset_81
+  - first:
+      213: -1832578533108662559
+    second: Stolen_Dungeon Tileset_82
+  - first:
+      213: 444088291116907984
+    second: Stolen_Dungeon Tileset_83
+  - first:
+      213: -8103888714473701800
+    second: Stolen_Dungeon Tileset_84
+  - first:
+      213: -1303072145144720373
+    second: Stolen_Dungeon Tileset_85
+  - first:
+      213: 2875127400391699967
+    second: Stolen_Dungeon Tileset_86
+  - first:
+      213: 8591271602113021482
+    second: Stolen_Dungeon Tileset_87
+  - first:
+      213: 5472349876748856595
+    second: Stolen_Dungeon Tileset_88
+  - first:
+      213: 787080280694501558
+    second: Stolen_Dungeon Tileset_89
+  - first:
+      213: 8038843526568179712
+    second: Stolen_Dungeon Tileset_90
+  - first:
+      213: 8715547774417697699
+    second: Stolen_Dungeon Tileset_91
+  - first:
+      213: 922107854146826490
+    second: Stolen_Dungeon Tileset_92
+  - first:
+      213: 974369985194514473
+    second: Stolen_Dungeon Tileset_93
+  - first:
+      213: -3872977544533581415
+    second: Stolen_Dungeon Tileset_94
+  - first:
+      213: -6892938801847528325
+    second: Stolen_Dungeon Tileset_95
+  - first:
+      213: -6576253505288886982
+    second: Stolen_Dungeon Tileset_96
+  - first:
+      213: 1224130496953355458
+    second: Stolen_Dungeon Tileset_97
+  - first:
+      213: 5754969062301369398
+    second: Stolen_Dungeon Tileset_98
+  - first:
+      213: 9005148173812936195
+    second: Stolen_Dungeon Tileset_99
+  - first:
+      213: 6927178444123452713
+    second: Stolen_Dungeon Tileset_100
+  - first:
+      213: 9001375033293022935
+    second: Stolen_Dungeon Tileset_101
+  - first:
+      213: -1338095878609060110
+    second: Stolen_Dungeon Tileset_102
+  - first:
+      213: 8953539624523368862
+    second: Stolen_Dungeon Tileset_103
+  - first:
+      213: 5117417992098507598
+    second: Stolen_Dungeon Tileset_104
+  - first:
+      213: -3257494771917185022
+    second: Stolen_Dungeon Tileset_105
+  - first:
+      213: 2500142447637904467
+    second: Stolen_Dungeon Tileset_106
+  - first:
+      213: 5473994756413161742
+    second: Stolen_Dungeon Tileset_107
+  - first:
+      213: 7069054366326986766
+    second: Stolen_Dungeon Tileset_108
+  - first:
+      213: -1834692132410045908
+    second: Stolen_Dungeon Tileset_109
+  - first:
+      213: -7350151193726566684
+    second: Stolen_Dungeon Tileset_110
+  - first:
+      213: 2124873317300807455
+    second: Stolen_Dungeon Tileset_111
+  - first:
+      213: 7115592114688585638
+    second: Stolen_Dungeon Tileset_112
+  - first:
+      213: -2957131261397380834
+    second: Stolen_Dungeon Tileset_113
+  - first:
+      213: 3451968630970125902
+    second: Stolen_Dungeon Tileset_114
+  - first:
+      213: -6811026948793917975
+    second: Stolen_Dungeon Tileset_115
+  - first:
+      213: -7591099521038375737
+    second: Stolen_Dungeon Tileset_116
+  - first:
+      213: 8519777345629155467
+    second: Stolen_Dungeon Tileset_117
+  - first:
+      213: -5275268552124205688
+    second: Stolen_Dungeon Tileset_118
+  - first:
+      213: 5578124379832695758
+    second: Stolen_Dungeon Tileset_119
+  - first:
+      213: -3058190991079747899
+    second: Stolen_Dungeon Tileset_120
+  - first:
+      213: -4559468889412459262
+    second: Stolen_Dungeon Tileset_121
+  - first:
+      213: 4381079603176455591
+    second: Stolen_Dungeon Tileset_122
+  - first:
+      213: -4721549251859348612
+    second: Stolen_Dungeon Tileset_123
+  - first:
+      213: -4504570840775224147
+    second: Stolen_Dungeon Tileset_124
+  - first:
+      213: -7208320228271018854
+    second: Stolen_Dungeon Tileset_125
+  - first:
+      213: 3874799826486743236
+    second: Stolen_Dungeon Tileset_126
+  - first:
+      213: 4145472822020012786
+    second: Stolen_Dungeon Tileset_127
+  - first:
+      213: -2260143721062237643
+    second: Stolen_Dungeon Tileset_128
+  - first:
+      213: 7027112027924823344
+    second: Stolen_Dungeon Tileset_129
+  - first:
+      213: -7394294902048445049
+    second: Stolen_Dungeon Tileset_130
+  - first:
+      213: -4017454478701285116
+    second: Stolen_Dungeon Tileset_131
+  - first:
+      213: 1842398388960369961
+    second: Stolen_Dungeon Tileset_132
+  - first:
+      213: 268970479605260768
+    second: Stolen_Dungeon Tileset_133
+  - first:
+      213: -8473475130506877279
+    second: Stolen_Dungeon Tileset_134
+  - first:
+      213: -879778623002023365
+    second: Stolen_Dungeon Tileset_135
+  - first:
+      213: -560054845749782575
+    second: Stolen_Dungeon Tileset_136
+  - first:
+      213: 4655084895448674524
+    second: Stolen_Dungeon Tileset_137
+  - first:
+      213: -3563456312445009836
+    second: Stolen_Dungeon Tileset_138
+  - first:
+      213: 2068734706165565255
+    second: Stolen_Dungeon Tileset_139
+  - first:
+      213: 2645220666953415079
+    second: Stolen_Dungeon Tileset_140
+  - first:
+      213: -6535500448490972115
+    second: Stolen_Dungeon Tileset_141
+  - first:
+      213: -7130523265119475321
+    second: Stolen_Dungeon Tileset_142
+  - first:
+      213: 858498646250153223
+    second: Stolen_Dungeon Tileset_143
+  - first:
+      213: 1095775429038645692
+    second: Stolen_Dungeon Tileset_144
+  - first:
+      213: -1033606960042509187
+    second: Stolen_Dungeon Tileset_145
+  - first:
+      213: -6480878409784771155
+    second: Stolen_Dungeon Tileset_146
+  - first:
+      213: 8016391506006236129
+    second: Stolen_Dungeon Tileset_147
+  - first:
+      213: -1677727504263598623
+    second: Stolen_Dungeon Tileset_148
+  - first:
+      213: 7928509568018811423
+    second: Stolen_Dungeon Tileset_149
+  - first:
+      213: -971388544488133865
+    second: Stolen_Dungeon Tileset_150
+  - first:
+      213: 2267313584748924169
+    second: Stolen_Dungeon Tileset_151
+  - first:
+      213: -8348684308509774527
+    second: Stolen_Dungeon Tileset_152
+  - first:
+      213: -6164194741174923559
+    second: Stolen_Dungeon Tileset_153
+  - first:
+      213: 1610336202236087189
+    second: Stolen_Dungeon Tileset_154
+  - first:
+      213: -758072548638497095
+    second: Stolen_Dungeon Tileset_155
+  - first:
+      213: -6485294067277074218
+    second: Stolen_Dungeon Tileset_156
+  - first:
+      213: 5319450800333199709
+    second: Stolen_Dungeon Tileset_157
+  - first:
+      213: 3836868234385804511
+    second: Stolen_Dungeon Tileset_158
+  - first:
+      213: 6782946856186901994
+    second: Stolen_Dungeon Tileset_159
+  - first:
+      213: 7493256606874129806
+    second: Stolen_Dungeon Tileset_160
+  - first:
+      213: -5563269571924761633
+    second: Stolen_Dungeon Tileset_161
+  - first:
+      213: -4942097517569916887
+    second: Stolen_Dungeon Tileset_162
+  - first:
+      213: 3959395967843536364
+    second: Stolen_Dungeon Tileset_163
+  - first:
+      213: 3336628112102416613
+    second: Stolen_Dungeon Tileset_164
+  - first:
+      213: -752703266137515058
+    second: Stolen_Dungeon Tileset_165
+  - first:
+      213: 2023593626206081242
+    second: Stolen_Dungeon Tileset_166
+  - first:
+      213: -8220009267803422447
+    second: Stolen_Dungeon Tileset_167
+  - first:
+      213: 3767562465414996580
+    second: Stolen_Dungeon Tileset_168
+  - first:
+      213: -8857782178909620100
+    second: Stolen_Dungeon Tileset_169
+  - first:
+      213: -4514910742734276167
+    second: Stolen_Dungeon Tileset_170
+  - first:
+      213: 9194451022576272045
+    second: Stolen_Dungeon Tileset_171
+  - first:
+      213: 2448530813894975551
+    second: Stolen_Dungeon Tileset_172
+  - first:
+      213: -6360906081260491103
+    second: Stolen_Dungeon Tileset_173
+  - first:
+      213: 3584604838283391848
+    second: Stolen_Dungeon Tileset_174
+  - first:
+      213: 8033482011731457879
+    second: Stolen_Dungeon Tileset_175
+  - first:
+      213: 3996849400293364079
+    second: Stolen_Dungeon Tileset_176
+  - first:
+      213: 3100415885695738010
+    second: Stolen_Dungeon Tileset_177
+  - first:
+      213: -282242628100094094
+    second: Stolen_Dungeon Tileset_178
+  - first:
+      213: 2560538152674409678
+    second: Stolen_Dungeon Tileset_179
+  - first:
+      213: -3320510645575074470
+    second: Stolen_Dungeon Tileset_180
+  - first:
+      213: -6735787586128790957
+    second: Stolen_Dungeon Tileset_181
+  - first:
+      213: -4545555135916427104
+    second: Stolen_Dungeon Tileset_182
+  - first:
+      213: 6790234144912793128
+    second: Stolen_Dungeon Tileset_183
+  - first:
+      213: -3104867422524817664
+    second: Stolen_Dungeon Tileset_184
+  - first:
+      213: -4759516423899244352
+    second: Stolen_Dungeon Tileset_185
+  - first:
+      213: 5178040952292735637
+    second: Stolen_Dungeon Tileset_186
+  - first:
+      213: -1256247430321149486
+    second: Stolen_Dungeon Tileset_187
+  - first:
+      213: -2526309031756454200
+    second: Stolen_Dungeon Tileset_188
+  - first:
+      213: 2022392068716106356
+    second: Stolen_Dungeon Tileset_189
+  - first:
+      213: 2437894705374748916
+    second: Stolen_Dungeon Tileset_190
+  - first:
+      213: 6422484551703334566
+    second: Stolen_Dungeon Tileset_191
+  - first:
+      213: -695891996183651431
+    second: Stolen_Dungeon Tileset_192
+  - first:
+      213: -3403923449369723607
+    second: Stolen_Dungeon Tileset_193
+  - first:
+      213: 1791241579420343870
+    second: Stolen_Dungeon Tileset_194
+  - first:
+      213: 8145583453480914348
+    second: Stolen_Dungeon Tileset_195
+  - first:
+      213: -6479767140658219569
+    second: Stolen_Dungeon Tileset_196
+  - first:
+      213: -980892110712513950
+    second: Stolen_Dungeon Tileset_197
+  - first:
+      213: -466638386288581556
+    second: Stolen_Dungeon Tileset_198
+  - first:
+      213: 1516724453556850799
+    second: Stolen_Dungeon Tileset_199
+  - first:
+      213: -4747867333515157593
+    second: Stolen_Dungeon Tileset_200
+  - first:
+      213: 5236742225984297066
+    second: Stolen_Dungeon Tileset_201
+  - first:
+      213: 8337041131003375923
+    second: Stolen_Dungeon Tileset_202
+  - first:
+      213: -68699008664117087
+    second: Stolen_Dungeon Tileset_203
+  - first:
+      213: 4381858474730437325
+    second: Stolen_Dungeon Tileset_204
+  - first:
+      213: -8959371278220851421
+    second: Stolen_Dungeon Tileset_205
+  - first:
+      213: -6012197427671888405
+    second: Stolen_Dungeon Tileset_206
+  - first:
+      213: 2717598238797763244
+    second: Stolen_Dungeon Tileset_207
+  - first:
+      213: -2947500964173594577
+    second: Stolen_Dungeon Tileset_208
+  - first:
+      213: 7540007759747648519
+    second: Stolen_Dungeon Tileset_209
+  - first:
+      213: -256172932034020605
+    second: Stolen_Dungeon Tileset_210
+  - first:
+      213: 4772007619971652649
+    second: Stolen_Dungeon Tileset_211
+  - first:
+      213: -3159219255209911242
+    second: Stolen_Dungeon Tileset_212
+  - first:
+      213: -1429848985791910885
+    second: Stolen_Dungeon Tileset_213
+  - first:
+      213: 1697927522715735993
+    second: Stolen_Dungeon Tileset_214
+  - first:
+      213: -5333468546092084469
+    second: Stolen_Dungeon Tileset_215
+  - first:
+      213: -3205636526796779740
+    second: Stolen_Dungeon Tileset_216
+  - first:
+      213: -311915905385446443
+    second: Stolen_Dungeon Tileset_217
+  - first:
+      213: -8445590884001537431
+    second: Stolen_Dungeon Tileset_218
+  - first:
+      213: 8419190648070271053
+    second: Stolen_Dungeon Tileset_219
+  - first:
+      213: -7485165023267779953
+    second: Stolen_Dungeon Tileset_220
+  - first:
+      213: -3427978042700744058
+    second: Stolen_Dungeon Tileset_221
+  - first:
+      213: -6684453940234679212
+    second: Stolen_Dungeon Tileset_222
+  - first:
+      213: -2207032966911362884
+    second: Stolen_Dungeon Tileset_223
+  - first:
+      213: 2551916444402538614
+    second: Stolen_Dungeon Tileset_224
+  - first:
+      213: 2742436435099360646
+    second: Stolen_Dungeon Tileset_225
+  - first:
+      213: 5518191288477418956
+    second: Stolen_Dungeon Tileset_226
+  - first:
+      213: -5641812660869068197
+    second: Stolen_Dungeon Tileset_227
+  - first:
+      213: 7089637757291159145
+    second: Stolen_Dungeon Tileset_228
+  - first:
+      213: -653971272953143308
+    second: Stolen_Dungeon Tileset_229
+  - first:
+      213: -980920384019322115
+    second: Stolen_Dungeon Tileset_230
+  - first:
+      213: 4911717871702060433
+    second: Stolen_Dungeon Tileset_231
+  - first:
+      213: -1044672238668020091
+    second: Stolen_Dungeon Tileset_232
+  - first:
+      213: -7000210266644398884
+    second: Stolen_Dungeon Tileset_233
+  - first:
+      213: 8567327473032269685
+    second: Stolen_Dungeon Tileset_234
+  - first:
+      213: 3672177816612850036
+    second: Stolen_Dungeon Tileset_235
+  - first:
+      213: -4810405039227792519
+    second: Stolen_Dungeon Tileset_236
+  - first:
+      213: 1656310938539558197
+    second: Stolen_Dungeon Tileset_237
+  - first:
+      213: -3346070386948790487
+    second: Stolen_Dungeon Tileset_238
+  - first:
+      213: -192430636594041346
+    second: Stolen_Dungeon Tileset_239
+  - first:
+      213: -4131965120886054187
+    second: Stolen_Dungeon Tileset_240
+  - first:
+      213: -8260535181603236610
+    second: Stolen_Dungeon Tileset_241
+  - first:
+      213: -1217900219267962140
+    second: Stolen_Dungeon Tileset_242
+  - first:
+      213: -3229186524476726745
+    second: Stolen_Dungeon Tileset_243
+  - first:
+      213: 2310380828121354745
+    second: Stolen_Dungeon Tileset_244
+  - first:
+      213: -2011148066108404631
+    second: Stolen_Dungeon Tileset_245
+  - first:
+      213: 4757342635454974837
+    second: Stolen_Dungeon Tileset_246
+  - first:
+      213: -5803872979662462405
+    second: Stolen_Dungeon Tileset_247
+  - first:
+      213: 5651428163822583532
+    second: Stolen_Dungeon Tileset_248
+  - first:
+      213: -2234652287879978739
+    second: Stolen_Dungeon Tileset_249
+  - first:
+      213: -4681202341261921700
+    second: Stolen_Dungeon Tileset_250
+  - first:
+      213: -8045623590592962618
+    second: Stolen_Dungeon Tileset_251
+  - first:
+      213: -7107693362610364095
+    second: Stolen_Dungeon Tileset_252
+  - first:
+      213: 4613462183945163497
+    second: Stolen_Dungeon Tileset_253
+  - first:
+      213: 3954442018097670847
+    second: Stolen_Dungeon Tileset_254
+  - first:
+      213: 4762440061824552190
+    second: Stolen_Dungeon Tileset_255
+  - first:
+      213: -9184970452610818720
+    second: Stolen_Dungeon Tileset_256
+  - first:
+      213: -8768363422650574896
+    second: Stolen_Dungeon Tileset_257
+  - first:
+      213: -4497510242356344861
+    second: Stolen_Dungeon Tileset_258
+  - first:
+      213: -6608613006835663651
+    second: Stolen_Dungeon Tileset_259
+  - first:
+      213: 3890831954859182482
+    second: Stolen_Dungeon Tileset_260
+  - first:
+      213: -486303993207882849
+    second: Stolen_Dungeon Tileset_261
+  - first:
+      213: 1437106336307963486
+    second: Stolen_Dungeon Tileset_262
+  - first:
+      213: 1950681798377027653
+    second: Stolen_Dungeon Tileset_263
+  - first:
+      213: 2945468369373943408
+    second: Stolen_Dungeon Tileset_264
+  - first:
+      213: 8628997271879987306
+    second: Stolen_Dungeon Tileset_265
+  - first:
+      213: -6429214614905182068
+    second: Stolen_Dungeon Tileset_266
+  - first:
+      213: 5584469276554257475
+    second: Stolen_Dungeon Tileset_267
+  - first:
+      213: -4606593531532993754
+    second: Stolen_Dungeon Tileset_268
+  - first:
+      213: -1691555312902129807
+    second: Stolen_Dungeon Tileset_269
+  - first:
+      213: -173049915561264733
+    second: Stolen_Dungeon Tileset_270
+  - first:
+      213: -7339635341800908359
+    second: Stolen_Dungeon Tileset_0
+  - first:
+      213: 8328338196424229677
+    second: Stolen_Dungeon Tileset_1
+  - first:
+      213: 5164569751886443946
+    second: Stolen_Dungeon Tileset_2
+  - first:
+      213: -5436283299141291482
+    second: Stolen_Dungeon Tileset_3
+  - first:
+      213: -7297312344408014645
+    second: Stolen_Dungeon Tileset_4
+  - first:
+      213: -1439580919535849916
+    second: Stolen_Dungeon Tileset_5
+  - first:
+      213: -5190279556583951349
+    second: Stolen_Dungeon Tileset_6
+  - first:
+      213: 500864007070911848
+    second: Stolen_Dungeon Tileset_7
+  - first:
+      213: 7369408148741760370
+    second: Stolen_Dungeon Tileset_8
+  - first:
+      213: 2655181205925579127
+    second: Stolen_Dungeon Tileset_9
+  - first:
+      213: -7440293643681600301
+    second: Stolen_Dungeon Tileset_10
+  - first:
+      213: -672919872528170644
+    second: Stolen_Dungeon Tileset_11
+  - first:
+      213: 5148203558024162046
+    second: Stolen_Dungeon Tileset_12
+  - first:
+      213: -1425480792461384064
+    second: Stolen_Dungeon Tileset_13
+  - first:
+      213: 6167258631080643044
+    second: Stolen_Dungeon Tileset_14
+  - first:
+      213: -5853260314148449183
+    second: Stolen_Dungeon Tileset_15
+  - first:
+      213: -6205656448251006633
+    second: Stolen_Dungeon Tileset_16
+  - first:
+      213: -1716206759186463187
+    second: Stolen_Dungeon Tileset_17
+  - first:
+      213: -702236834177668892
+    second: Stolen_Dungeon Tileset_18
+  - first:
+      213: 3041093785690518205
+    second: Stolen_Dungeon Tileset_19
+  - first:
+      213: 4494905694072926601
+    second: Stolen_Dungeon Tileset_20
+  - first:
+      213: -6377144487070689516
+    second: Stolen_Dungeon Tileset_21
+  - first:
+      213: -8064549025185217669
+    second: Stolen_Dungeon Tileset_22
+  - first:
+      213: 105354224526501939
+    second: Stolen_Dungeon Tileset_23
+  - first:
+      213: -1360315260177659150
+    second: Stolen_Dungeon Tileset_24
+  - first:
+      213: -7173223273723672913
+    second: Stolen_Dungeon Tileset_25
+  - first:
+      213: -4255089478011408717
+    second: Stolen_Dungeon Tileset_26
+  - first:
+      213: -8273313277843452152
+    second: Stolen_Dungeon Tileset_27
+  - first:
+      213: 6864519996218437136
+    second: Stolen_Dungeon Tileset_28
+  - first:
+      213: -650641266001469378
+    second: Stolen_Dungeon Tileset_29
+  - first:
+      213: -109366777615570279
+    second: Stolen_Dungeon Tileset_30
+  - first:
+      213: 6479463523721250504
+    second: Stolen_Dungeon Tileset_31
+  - first:
+      213: 4435911110076493624
+    second: Stolen_Dungeon Tileset_32
+  - first:
+      213: -3322115342232823730
+    second: Stolen_Dungeon Tileset_33
+  - first:
+      213: -6729584182273291674
+    second: Stolen_Dungeon Tileset_34
+  - first:
+      213: -3585579750374862807
+    second: Stolen_Dungeon Tileset_35
+  - first:
+      213: 5557904752949335929
+    second: Stolen_Dungeon Tileset_36
+  - first:
+      213: 258640602609902
+    second: Stolen_Dungeon Tileset_37
+  - first:
+      213: 8587345083254880619
+    second: Stolen_Dungeon Tileset_38
+  - first:
+      213: 4888799459732563730
+    second: Stolen_Dungeon Tileset_39
+  - first:
+      213: 8716580922670471576
+    second: Stolen_Dungeon Tileset_40
+  - first:
+      213: -7630523937173246068
+    second: Stolen_Dungeon Tileset_41
+  - first:
+      213: 2603748069891665315
+    second: Stolen_Dungeon Tileset_42
+  - first:
+      213: -4169143049058483021
+    second: Stolen_Dungeon Tileset_43
+  - first:
+      213: 6330925809347667471
+    second: Stolen_Dungeon Tileset_44
+  - first:
+      213: 5296156076199466483
+    second: Stolen_Dungeon Tileset_45
+  - first:
+      213: 8527552581971505398
+    second: Stolen_Dungeon Tileset_46
+  - first:
+      213: 947147037023657371
+    second: Stolen_Dungeon Tileset_47
+  - first:
+      213: 2889176253395086775
+    second: Stolen_Dungeon Tileset_48
+  - first:
+      213: -4354974354739873777
+    second: Stolen_Dungeon Tileset_49
+  - first:
+      213: -1525209526449372401
+    second: Stolen_Dungeon Tileset_50
+  - first:
+      213: 4744767152002278316
+    second: Stolen_Dungeon Tileset_51
+  - first:
+      213: -7325121214701549224
+    second: Stolen_Dungeon Tileset_52
+  - first:
+      213: -1826504174973373882
+    second: Stolen_Dungeon Tileset_53
+  - first:
+      213: -7290178516520341239
+    second: Stolen_Dungeon Tileset_54
+  - first:
+      213: -6102073430565758796
+    second: Stolen_Dungeon Tileset_55
+  - first:
+      213: 3282475190040247605
+    second: Stolen_Dungeon Tileset_56
+  - first:
+      213: -7482302105053425067
+    second: Stolen_Dungeon Tileset_57
+  - first:
+      213: 2764784159429574114
+    second: Stolen_Dungeon Tileset_58
+  - first:
+      213: -6654377473278772531
+    second: Stolen_Dungeon Tileset_59
+  - first:
+      213: -6253939082722819
+    second: Stolen_Dungeon Tileset_60
+  - first:
+      213: 6676043712584333828
+    second: Stolen_Dungeon Tileset_61
+  - first:
+      213: -6548469215616530665
+    second: Stolen_Dungeon Tileset_62
+  - first:
+      213: -5781985258924524872
+    second: Stolen_Dungeon Tileset_63
+  - first:
+      213: -2693584336183207512
+    second: Stolen_Dungeon Tileset_64
+  - first:
+      213: 5698565143096043543
+    second: Stolen_Dungeon Tileset_65
+  - first:
+      213: 6967521731571298481
+    second: Stolen_Dungeon Tileset_66
+  - first:
+      213: -6336603917360634484
+    second: Stolen_Dungeon Tileset_67
+  - first:
+      213: 8967041337936344241
+    second: Stolen_Dungeon Tileset_68
+  - first:
+      213: 4125647567127541406
+    second: Stolen_Dungeon Tileset_69
+  - first:
+      213: 3113313546283138720
+    second: Stolen_Dungeon Tileset_70
+  - first:
+      213: -7979230749519982439
+    second: Stolen_Dungeon Tileset_71
+  - first:
+      213: -2686171613122702144
+    second: Stolen_Dungeon Tileset_72
+  - first:
+      213: -2757570856732144518
+    second: Stolen_Dungeon Tileset_73
+  - first:
+      213: -6038612873701858441
+    second: Stolen_Dungeon Tileset_74
+  - first:
+      213: -5630659276505133996
+    second: Stolen_Dungeon Tileset_75
+  - first:
+      213: 3464060114375247143
+    second: Stolen_Dungeon Tileset_76
+  - first:
+      213: 4980206267336828957
+    second: Stolen_Dungeon Tileset_77
+  - first:
+      213: -6623249875430299398
+    second: Stolen_Dungeon Tileset_78
+  - first:
+      213: -9082856285001368853
+    second: Stolen_Dungeon Tileset_79
+  - first:
+      213: -4914600384030822364
+    second: Stolen_Dungeon Tileset_80
+  - first:
+      213: 6402438859710606576
+    second: Stolen_Dungeon Tileset_81
+  - first:
+      213: 8451721571669997054
+    second: Stolen_Dungeon Tileset_82
+  - first:
+      213: -4291521672748461717
+    second: Stolen_Dungeon Tileset_83
+  - first:
+      213: 486819392165221664
+    second: Stolen_Dungeon Tileset_84
+  - first:
+      213: -4022283667328505153
+    second: Stolen_Dungeon Tileset_85
+  - first:
+      213: -325896886023189762
+    second: Stolen_Dungeon Tileset_86
+  - first:
+      213: 8167263309169584295
+    second: Stolen_Dungeon Tileset_87
+  - first:
+      213: 5909533061293402393
+    second: Stolen_Dungeon Tileset_88
+  - first:
+      213: 7258457030731455925
+    second: Stolen_Dungeon Tileset_89
+  - first:
+      213: 4300057306281684401
+    second: Stolen_Dungeon Tileset_90
+  - first:
+      213: 8730870669386988493
+    second: Stolen_Dungeon Tileset_91
+  - first:
+      213: -3953627483278964041
+    second: Stolen_Dungeon Tileset_92
+  - first:
+      213: -7127988796566496266
+    second: Stolen_Dungeon Tileset_93
+  - first:
+      213: -2647225495448918758
+    second: Stolen_Dungeon Tileset_94
+  - first:
+      213: 237823474428228469
+    second: Stolen_Dungeon Tileset_95
+  - first:
+      213: 5292226234614498894
+    second: Stolen_Dungeon Tileset_96
+  - first:
+      213: 2263752046395697794
+    second: Stolen_Dungeon Tileset_97
+  - first:
+      213: 4022981127206652486
+    second: Stolen_Dungeon Tileset_98
+  - first:
+      213: -5481133965663851879
+    second: Stolen_Dungeon Tileset_99
+  - first:
+      213: -1538707157201520683
+    second: Stolen_Dungeon Tileset_100
+  - first:
+      213: -4076429671269880938
+    second: Stolen_Dungeon Tileset_101
+  - first:
+      213: 6915177029818379224
+    second: Stolen_Dungeon Tileset_102
+  - first:
+      213: -920712406236249726
+    second: Stolen_Dungeon Tileset_103
+  - first:
+      213: 277060082656686746
+    second: Stolen_Dungeon Tileset_104
+  - first:
+      213: 5775929912593166005
+    second: Stolen_Dungeon Tileset_105
+  - first:
+      213: -3464345970528227527
+    second: Stolen_Dungeon Tileset_106
+  - first:
+      213: -7645797134729232074
+    second: Stolen_Dungeon Tileset_107
+  - first:
+      213: -479643019779977150
+    second: Stolen_Dungeon Tileset_108
+  - first:
+      213: -8457759312952707021
+    second: Stolen_Dungeon Tileset_109
+  - first:
+      213: -6956796609810992923
+    second: Stolen_Dungeon Tileset_110
+  - first:
+      213: -5976672246119554678
+    second: Stolen_Dungeon Tileset_111
+  - first:
+      213: -5921382344878377276
+    second: Stolen_Dungeon Tileset_112
+  - first:
+      213: 7254241902056432356
+    second: Stolen_Dungeon Tileset_113
+  - first:
+      213: 7130739851683315602
+    second: Stolen_Dungeon Tileset_114
+  - first:
+      213: -7391409037434695527
+    second: Stolen_Dungeon Tileset_115
+  - first:
+      213: -6266516329232637908
+    second: Stolen_Dungeon Tileset_116
+  - first:
+      213: 4341955958301185884
+    second: Stolen_Dungeon Tileset_117
+  - first:
+      213: -4757107685508539696
+    second: Stolen_Dungeon Tileset_118
+  - first:
+      213: -8879787133119769043
+    second: Stolen_Dungeon Tileset_119
+  - first:
+      213: -4510813192657494877
+    second: Stolen_Dungeon Tileset_120
+  - first:
+      213: 8365121289933261938
+    second: Stolen_Dungeon Tileset_121
+  - first:
+      213: -1771921838400599109
+    second: Stolen_Dungeon Tileset_122
+  - first:
+      213: 8026897430476940431
+    second: Stolen_Dungeon Tileset_123
+  - first:
+      213: 5856046662568486313
+    second: Stolen_Dungeon Tileset_124
+  - first:
+      213: 1672467078149581487
+    second: Stolen_Dungeon Tileset_125
+  - first:
+      213: -1078782028757188391
+    second: Stolen_Dungeon Tileset_126
+  - first:
+      213: 4733623555194788241
+    second: Stolen_Dungeon Tileset_127
+  - first:
+      213: -5180728211494666689
+    second: Stolen_Dungeon Tileset_128
+  - first:
+      213: 1202043940166967375
+    second: Stolen_Dungeon Tileset_129
+  - first:
+      213: 3791829779827673466
+    second: Stolen_Dungeon Tileset_130
+  - first:
+      213: -5707316792963416677
+    second: Stolen_Dungeon Tileset_131
+  - first:
+      213: 2361542167290514491
+    second: Stolen_Dungeon Tileset_132
+  - first:
+      213: -7738475320948283960
+    second: Stolen_Dungeon Tileset_133
+  - first:
+      213: -634629324302806970
+    second: Stolen_Dungeon Tileset_134
+  - first:
+      213: 2432576805192847700
+    second: Stolen_Dungeon Tileset_135
+  - first:
+      213: 1979625152845727777
+    second: Stolen_Dungeon Tileset_136
+  - first:
+      213: 2804682561859702530
+    second: Stolen_Dungeon Tileset_137
+  - first:
+      213: 8369536915138666404
+    second: Stolen_Dungeon Tileset_138
+  - first:
+      213: -4796671946939654626
+    second: Stolen_Dungeon Tileset_139
+  - first:
+      213: -4240748793825047720
+    second: Stolen_Dungeon Tileset_140
+  - first:
+      213: -63243915886693803
+    second: Stolen_Dungeon Tileset_141
+  - first:
+      213: -9189122804173018263
+    second: Stolen_Dungeon Tileset_142
+  - first:
+      213: -889409957416379146
+    second: Stolen_Dungeon Tileset_143
+  - first:
+      213: -919131995991979785
+    second: Stolen_Dungeon Tileset_144
+  - first:
+      213: 511036319368178384
+    second: Stolen_Dungeon Tileset_145
+  - first:
+      213: 1810447416725972287
+    second: Stolen_Dungeon Tileset_146
+  - first:
+      213: -7593424402853322389
+    second: Stolen_Dungeon Tileset_147
+  - first:
+      213: 2300879090183302853
+    second: Stolen_Dungeon Tileset_148
+  - first:
+      213: 2527721592402558195
+    second: Stolen_Dungeon Tileset_149
+  - first:
+      213: -6470519337622387019
+    second: Stolen_Dungeon Tileset_150
+  - first:
+      213: -5130189863660204336
+    second: Stolen_Dungeon Tileset_151
+  - first:
+      213: 6135424712912814390
+    second: Stolen_Dungeon Tileset_152
+  - first:
+      213: 7100603943034843684
+    second: Stolen_Dungeon Tileset_153
+  - first:
+      213: 1024289649582168290
+    second: Stolen_Dungeon Tileset_154
+  - first:
+      213: 81622643743811180
+    second: Stolen_Dungeon Tileset_155
+  - first:
+      213: 5661960533147610923
+    second: Stolen_Dungeon Tileset_156
+  - first:
+      213: -2644540009648010611
+    second: Stolen_Dungeon Tileset_157
+  - first:
+      213: -5360515728176882381
+    second: Stolen_Dungeon Tileset_158
+  - first:
+      213: -5900979424756023432
+    second: Stolen_Dungeon Tileset_159
+  - first:
+      213: -1667201941867543852
+    second: Stolen_Dungeon Tileset_160
+  - first:
+      213: -6597627657217731182
+    second: Stolen_Dungeon Tileset_161
+  - first:
+      213: 1954015581154513035
+    second: Stolen_Dungeon Tileset_162
+  - first:
+      213: -54407295878787456
+    second: Stolen_Dungeon Tileset_163
+  - first:
+      213: 2734090806434416882
+    second: Stolen_Dungeon Tileset_164
+  - first:
+      213: -2783285794685899740
+    second: Stolen_Dungeon Tileset_165
+  - first:
+      213: 4695166272391171482
+    second: Stolen_Dungeon Tileset_166
+  - first:
+      213: -7817001366800684138
+    second: Stolen_Dungeon Tileset_167
+  - first:
+      213: 4022048361118983483
+    second: Stolen_Dungeon Tileset_168
+  - first:
+      213: -1349052441106920374
+    second: Stolen_Dungeon Tileset_169
+  - first:
+      213: -272041045103331832
+    second: Stolen_Dungeon Tileset_170
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9dd0f2b80642a90800000000000000
+      internalID: -7339635341800908359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d230f27d673349370800000000000000
+      internalID: 8328338196424229677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa53be683dc3ca740800000000000000
+      internalID: 5164569751886443946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227b4064217e84b0800000000000000
+      internalID: -5436283299141291482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0cc78e51dbaba90800000000000000
+      internalID: -7297312344408014645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea2a9e7c4950ce0800000000000000
+      internalID: -1439580919535849916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0477d81e3c68f7b0800000000000000
+      internalID: -5190279556583951349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d8d36292d63f600800000000000000
+      internalID: 500864007070911848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2752f9e9aa5654660800000000000000
+      internalID: 7369408148741760370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779cc713d3919d420800000000000000
+      internalID: 2655181205925579127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce2c7f954ceb890800000000000000
+      internalID: -7440293643681600301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6148a3f0fe49a6f0800000000000000
+      internalID: -672919872528170644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaae631cd7127740800000000000000
+      internalID: 5148203558024162046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086623395cca73ce0800000000000000
+      internalID: -1425480792461384064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e90687ac01869550800000000000000
+      internalID: 6167258631080643044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645a4591ca05cea0800000000000000
+      internalID: -5853260314148449183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751f2ebd65411e9a0800000000000000
+      internalID: -6205656448251006633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26019d9b0fce28e0800000000000000
+      internalID: -1716206759186463187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e825a6e1572146f0800000000000000
+      internalID: -702236834177668892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db23bb88fa2243a20800000000000000
+      internalID: 3041093785690518205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f81ae9ec116e30800000000000000
+      internalID: 4494905694072926601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4179fc660e4df77a0800000000000000
+      internalID: -6377144487070689516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73cc10b367f41090800000000000000
+      internalID: -8064549025185217669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3382d78eb1b467100800000000000000
+      internalID: 105354224526501939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa41966a703f1de0800000000000000
+      internalID: -1360315260177659150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6c22b1077937c90800000000000000
+      internalID: -7173223273723672913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea0a70aa2e2f4c0800000000000000
+      internalID: -4255089478011408717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f4e9e58694f2d80800000000000000
+      internalID: -8273313277843452152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6a28119ca34f50800000000000000
+      internalID: 6864519996218437136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30a5cf373578f6f0800000000000000
+      internalID: -650641266001469378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aaef5ce737b7ef0800000000000000
+      internalID: -109366777615570279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68182cebdabe950800000000000000
+      internalID: 6479463523721250504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f6153f6a58f8d30800000000000000
+      internalID: 4435911110076493624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48565392b975e1d0800000000000000
+      internalID: -3322115342232823730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a438157d6bb92a0800000000000000
+      internalID: -6729584182273291674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209219d6367d3ec0800000000000000
+      internalID: -3585579750374862807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977100ffce4a12d40800000000000000
+      internalID: 5557904752949335929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee83e357b3be00000800000000000000
+      internalID: 258640602609902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ba130bd06c2770800000000000000
+      internalID: 8587345083254880619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172b77e43188d340800000000000000
+      internalID: 4888799459732563730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89958bfaa2487f870800000000000000
+      internalID: 8716580922670471576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f6caa48eeea1690800000000000000
+      internalID: -7630523937173246068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad6086031f522420800000000000000
+      internalID: 2603748069891665315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b484176c7a3426c0800000000000000
+      internalID: -4169143049058483021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06258d1b77fbd750800000000000000
+      internalID: 6330925809347667471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f555ec14e9bf7940800000000000000
+      internalID: 5296156076199466483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f070e374e3f75670800000000000000
+      internalID: 8527552581971505398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ddbd34631f42d00800000000000000
+      internalID: 947147037023657371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdab15be7a681820800000000000000
+      internalID: 2889176253395086775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f083bc3e5e50093c0800000000000000
+      internalID: -4354974354739873777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0381ff340e55dae0800000000000000
+      internalID: -1525209526449372401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3a90df59cc8d140800000000000000
+      internalID: 4744767152002278316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859490db011f75a90800000000000000
+      internalID: -7325121214701549224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b1fd4124f6a6e0800000000000000
+      internalID: -1826504174973373882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901fe95a34514da90800000000000000
+      internalID: -7290178516520341239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b857c98b84115ba0800000000000000
+      internalID: -6102073430565758796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db1664bc1bd8d20800000000000000
+      internalID: 3282475190040247605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552122ed0e5892890800000000000000
+      internalID: -7482302105053425067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed3d676b8c7e5620800000000000000
+      internalID: 2764784159429574114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca7bd7c1f6e6a3a0800000000000000
+      internalID: -6654377473278772531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df107865318c9eff0800000000000000
+      internalID: -6253939082722819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ab199a26216ac50800000000000000
+      internalID: 6676043712584333828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717889491f92f15a0800000000000000
+      internalID: -6548469215616530665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba32419a0342cfa0800000000000000
+      internalID: -5781985258924524872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a95e3541577e9ad0800000000000000
+      internalID: -2693584336183207512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718a9ab2ece551f40800000000000000
+      internalID: 5698565143096043543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b03f1f691c91b060800000000000000
+      internalID: 6967521731571298481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ee575f4cdf08a0800000000000000
+      internalID: -6336603917360634484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b470f16694517c70800000000000000
+      internalID: 8967041337936344241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96771b8a9e314930800000000000000
+      internalID: 4125647567127541406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3e90ec26b43b20800000000000000
+      internalID: 3113313546283138720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990dcf9b8e3144190800000000000000
+      internalID: -7979230749519982439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4551a562dc8bad0800000000000000
+      internalID: -2686171613122702144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cc2818ae32bb9d0800000000000000
+      internalID: -2757570856732144518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77366e6d599823ca0800000000000000
+      internalID: -6038612873701858441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c47a47831ebd1b0800000000000000
+      internalID: -5630659276505133996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258fe51250d21030800000000000000
+      internalID: 3464060114375247143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1829c0c63f3d1540800000000000000
+      internalID: 4980206267336828957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8a35c645d7514a0800000000000000
+      internalID: -6623249875430299398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab192f45633f180800000000000000
+      internalID: -9082856285001368853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42038d84df4dbcbb0800000000000000
+      internalID: -4914600384030822364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc2539a8380ad850800000000000000
+      internalID: 6402438859710606576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef575e38dfb8a4570800000000000000
+      internalID: 8451721571669997054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6110fda6c37174c0800000000000000
+      internalID: -4291521672748461717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02597cb68a781c600800000000000000
+      internalID: 486819392165221664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba6707c05afd28c0800000000000000
+      internalID: -4022283667328505153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa8e23428e2a7bf0800000000000000
+      internalID: -325896886023189762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8622a25b2f75170800000000000000
+      internalID: 8167263309169584295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919e1da5201e20250800000000000000
+      internalID: 5909533061293402393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5f2666383bb460800000000000000
+      internalID: 7258457030731455925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd2ebe565fdcab30800000000000000
+      internalID: 4300057306281684401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb30bc9d984a2970800000000000000
+      internalID: 8730870669386988493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba8fec40c4e129c0800000000000000
+      internalID: -3953627483278964041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb90b984fb441d90800000000000000
+      internalID: -7127988796566496266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15e86fff6a234bd0800000000000000
+      internalID: -2647225495448918758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5733b80a03bec4300800000000000000
+      internalID: 237823474428228469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46433198b3c17940800000000000000
+      internalID: 5292226234614498894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aaaf80e767a6f10800000000000000
+      internalID: 2263752046395697794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ac041450084d730800000000000000
+      internalID: 4022981127206652486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2742d2b91fe3b0800000000000000
+      internalID: -5481133965663851879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7f6a13ef965aae0800000000000000
+      internalID: -1538707157201520683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba814dfcc9d67c0800000000000000
+      internalID: -4076429671269880938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe345ded4a7ff50800000000000000
+      internalID: 6915177029818379224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814ef5d1f8f833f0800000000000000
+      internalID: -920712406236249726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9231306da058d300800000000000000
+      internalID: 277060082656686746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be2baf37a9382050800000000000000
+      internalID: 5775929912593166005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93feb97d1bb2cefc0800000000000000
+      internalID: -3464345970528227527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c3cfd30ca4e590800000000000000
+      internalID: -7645797134729232074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240d40bf637f759f0800000000000000
+      internalID: -479643019779977150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b3bb47b000aa80800000000000000
+      internalID: -8457759312952707021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0f291975e747f90800000000000000
+      internalID: -6956796609810992923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ab1702489e0da0800000000000000
+      internalID: -5976672246119554678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c63142512603dda0800000000000000
+      internalID: -5921382344878377276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: -2, y: -8}
+        - {x: -2, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e3d6439e3ca460800000000000000
+      internalID: 7254241902056432356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3e456d1a75f260800000000000000
+      internalID: 7130739851683315602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: 4}
+        - {x: 2, y: 4}
+        - {x: 2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d71e44a07c6990800000000000000
+      internalID: -7391409037434695527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2067e8999cd809a0800000000000000
+      internalID: -6266516329232637908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57deec70f9b14c30800000000000000
+      internalID: 4341955958301185884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9bf6a3cb5bfdb0800000000000000
+      internalID: -4757107685508539696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26df4946a8a4c480800000000000000
+      internalID: -8879787133119769043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac1183fc4f5661c0800000000000000
+      internalID: -4510813192657494877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c878d2e71e61470800000000000000
+      internalID: 8365121289933261938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb006cd97ed867e0800000000000000
+      internalID: -1771921838400599109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e2184fa4456f60800000000000000
+      internalID: 8026897430476940431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a186b96bd44150800000000000000
+      internalID: 5856046662568486313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa24ab42fbc53710800000000000000
+      internalID: 1672467078149581487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d04ad1e5756701f0800000000000000
+      internalID: -1078782028757188391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1999ecb2b8531b140800000000000000
+      internalID: 4733623555194788241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef30ce32b5a18b0800000000000000
+      internalID: -5180728211494666689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40201a48948ea010800000000000000
+      internalID: 1202043940166967375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79406348194f9430800000000000000
+      internalID: 3791829779827673466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d3bce8d998bc0b0800000000000000
+      internalID: -5707316792963416677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c0573d612e5c020800000000000000
+      internalID: 2361542167290514491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c520cf12b96b9490800000000000000
+      internalID: -7738475320948283960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64092e0fdf75137f0800000000000000
+      internalID: -634629324302806970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451df5a47bf32c120800000000000000
+      internalID: 2432576805192847700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1284cc7869a097b10800000000000000
+      internalID: 1979625152845727777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f416f1eeb3ce620800000000000000
+      internalID: 2804682561859702530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afdb590b71962470800000000000000
+      internalID: 8369536915138666404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9492374cce6db0800000000000000
+      internalID: -4796671946939654626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: -2, y: -8}
+        - {x: -2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b4462c075d525c0800000000000000
+      internalID: -4240748793825047720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5527e5b5eff4f1ff0800000000000000
+      internalID: -63243915886693803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: 2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b63d3ee7da97080800000000000000
+      internalID: -9189122804173018263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc50842b5e28a3f0800000000000000
+      internalID: -889409957416379146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c335c1569e33f0800000000000000
+      internalID: -919131995991979785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da634b23d0971700800000000000000
+      internalID: 511036319368178384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a9765550002910800000000000000
+      internalID: 1810447416725972287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61252fbcbcbe9690800000000000000
+      internalID: -7593424402853322389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceef79875d5eef10800000000000000
+      internalID: 2300879090183302853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc3d365565441320800000000000000
+      internalID: 2527721592402558195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_150
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6c8b8d1f81436a0800000000000000
+      internalID: -6470519337622387019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de493aff77edc8b0800000000000000
+      internalID: -5130189863660204336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631425ff448652550800000000000000
+      internalID: 6135424712912814390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42274536aa96a8260800000000000000
+      internalID: 7100603943034843684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_154
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e854766202073e00800000000000000
+      internalID: 1024289649582168290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c666afdac5bf12100800000000000000
+      internalID: 81622643743811180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6b864b13539e40800000000000000
+      internalID: 5661960533147610923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_157
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a4f926fd4bc4bd0800000000000000
+      internalID: -2644540009648010611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_158
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5f11b85f9b95b0800000000000000
+      internalID: -5360515728176882381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f37885a728b1ea0800000000000000
+      internalID: -5900979424756023432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c426caa8ecd8e0800000000000000
+      internalID: -1667201941867543852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_161
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2959e3bf9948074a0800000000000000
+      internalID: -6597627657217731182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b801b4871de0e1b10800000000000000
+      internalID: 1954015581154513035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e84f74ad4be3ff0800000000000000
+      internalID: -54407295878787456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84f254a1171f520800000000000000
+      internalID: 2734090806434416882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c2b53f058cf59d0800000000000000
+      internalID: -2783285794685899740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d454349d4982140800000000000000
+      internalID: 4695166272391171482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -4}
+        - {x: -2, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b2a135cae648390800000000000000
+      internalID: -7817001366800684138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -4}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3560f9bcaf21d730800000000000000
+      internalID: 4022048361118983483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: 2, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc270d3f3374de0800000000000000
+      internalID: -1349052441106920374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063a4e5c14893cf0800000000000000
+      internalID: -272041045103331832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c261ad70499f70800000000000000
+      internalID: 9194451022576272045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30eec76dcdeaf120800000000000000
+      internalID: 2448530813894975551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_173
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aea8d0ee9589b7a0800000000000000
+      internalID: -6360906081260491103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863370ebb131fb130800000000000000
+      internalID: 3584604838283391848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577eb29359ac7f60800000000000000
+      internalID: 8033482011731457879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6118357a59a77730800000000000000
+      internalID: 3996849400293364079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a906fd242d3e60b20800000000000000
+      internalID: 3100415885695738010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2770f9b33d5451cf0800000000000000
+      internalID: -282242628100094094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3eff22ebd88320800000000000000
+      internalID: 2560538152674409678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_180
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d3891292d2be1d0800000000000000
+      internalID: -3320510645575074470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_181
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35abe4ec0eca582a0800000000000000
+      internalID: -6735787586128790957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_182
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8bfb0ffa1fae0c0800000000000000
+      internalID: -4545555135916427104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e51458af1cb3e50800000000000000
+      internalID: 6790234144912793128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_184
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fb9bd878b49e4d0800000000000000
+      internalID: -3104867422524817664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_185
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c819da870dc2fdb0800000000000000
+      internalID: -4759516423899244352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a75d9cfc81cd740800000000000000
+      internalID: 5178040952292735637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_187
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9e5b53e99e09ee0800000000000000
+      internalID: -1256247430321149486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_188
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ab41125fb0fcd0800000000000000
+      internalID: -2526309031756454200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47214641fdaf01c10800000000000000
+      internalID: 2022392068716106356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_190
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0eaa9615425d120800000000000000
+      internalID: 2437894705374748916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae06b70caf312950800000000000000
+      internalID: 6422484551703334566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_192
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b9f6d9ae1b756f0800000000000000
+      internalID: -695891996183651431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df1b558a5d2c0d0800000000000000
+      internalID: -3403923449369723607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_194
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e5240e9b4cbd810800000000000000
+      internalID: 1791241579420343870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad87096efcea0170800000000000000
+      internalID: 8145583453480914348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_196
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc571d9ed1e3316a0800000000000000
+      internalID: -6479767140658219569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5ff182db2362f0800000000000000
+      internalID: -980892110712513950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_198
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4425ba2cda2689f0800000000000000
+      internalID: -466638386288581556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_199
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609764cadc7c0510800000000000000
+      internalID: 1516724453556850799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_200
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd521c0df2c1eb0800000000000000
+      internalID: -4747867333515157593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6815102f45aca840800000000000000
+      internalID: 5236742225984297066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_202
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f643bcbe13b370800000000000000
+      internalID: 8337041131003375923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a067289d9eeb0ff0800000000000000
+      internalID: -68699008664117087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_204
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcab752111d7fcc30800000000000000
+      internalID: 4381858474730437325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_205
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270fce8a4be9a380800000000000000
+      internalID: -8959371278220851421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_206
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed89142b42609ca0800000000000000
+      internalID: -6012197427671888405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_207
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca294c12339d6b520800000000000000
+      internalID: 2717598238797763244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_208
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20cf475d7f5817d0800000000000000
+      internalID: -2947500964173594577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_209
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c827bdb1d73a860800000000000000
+      internalID: 7540007759747648519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_210
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bba095314e17cf0800000000000000
+      internalID: -256172932034020605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_211
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c1edda5a3993240800000000000000
+      internalID: 4772007619971652649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_212
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c93ad53d23824d0800000000000000
+      internalID: -3159219255209911242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_213
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cab6f4ce7282ce0800000000000000
+      internalID: -1429848985791910885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_214
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b794ddf510409710800000000000000
+      internalID: 1697927522715735993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_215
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0356718d96bbf5b0800000000000000
+      internalID: -5333468546092084469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc245209a4383d0800000000000000
+      internalID: -3205636526796779740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_217
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c4bbf22adbabf0800000000000000
+      internalID: -311915905385446443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962afc076db3bca80800000000000000
+      internalID: -8445590884001537431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_219
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40f482a949f6d470800000000000000
+      internalID: 8419190648070271053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a02f6c11a5f1890800000000000000
+      internalID: -7485165023267779953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_221
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68abbf2e1206d60d0800000000000000
+      internalID: -3427978042700744058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c0ade9e8c0c33a0800000000000000
+      internalID: -6684453940234679212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_223
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8fbafb53b0f51e0800000000000000
+      internalID: -2207032966911362884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678571d4c7a3a6320800000000000000
+      internalID: 2551916444402538614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_225
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d9f2d58671f0620800000000000000
+      internalID: 2742436435099360646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc50a508dbd849c40800000000000000
+      internalID: 5518191288477418956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_227
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a099bc64144b1b0800000000000000
+      internalID: -5641812660869068197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e598d4af3736260800000000000000
+      internalID: 7089637757291159145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_229
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff51569790ace6f0800000000000000
+      internalID: -653971272953143308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_230
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaa69d9b121362f0800000000000000
+      internalID: -980920384019322115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_231
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d2db3816de92440800000000000000
+      internalID: 4911717871702060433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5860b7342249081f0800000000000000
+      internalID: -1044672238668020091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_233
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3e97e9d14ade90800000000000000
+      internalID: -7000210266644398884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_234
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8880f1f245e670800000000000000
+      internalID: 8567327473032269685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_235
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4794747a44236f230800000000000000
+      internalID: 3672177816612850036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_236
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973141b7a120e3db0800000000000000
+      internalID: -4810405039227792519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_237
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5358e39e5066cf610800000000000000
+      internalID: 1656310938539558197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_238
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927a67816be5091d0800000000000000
+      internalID: -3346070386948790487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_239
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde8e50b59545df0800000000000000
+      internalID: -192430636594041346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_240
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d268495d9f48a6c0800000000000000
+      internalID: -4131965120886054187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_241
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef41cedb40fac5d80800000000000000
+      internalID: -8260535181603236610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_242
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaa9aa0436291fe0800000000000000
+      internalID: -1217900219267962140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722261707ff9f23d0800000000000000
+      internalID: -3229186524476726745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_244
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1db0c4f1f101020800000000000000
+      internalID: 2310380828121354745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_245
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c05e84d77f614e0800000000000000
+      internalID: -2011148066108404631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_246
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b4d15ebe9750240800000000000000
+      internalID: 4757342635454974837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_247
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b322bb57640847fa0800000000000000
+      internalID: -5803872979662462405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_248
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee7842f8f7ed6e40800000000000000
+      internalID: 5651428163822583532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_249
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016668759becf0e0800000000000000
+      internalID: -2234652287879978739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_250
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523b5fc547090fb0800000000000000
+      internalID: -4681202341261921700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_251
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf143ec8f3385090800000000000000
+      internalID: -8045623590592962618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_252
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141253d7b866c5d90800000000000000
+      internalID: -7107693362610364095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_253
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2dfb2c96f460040800000000000000
+      internalID: 4613462183945163497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_254
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba279d501001e630800000000000000
+      internalID: 3954442018097670847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_255
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc4425f006971240800000000000000
+      internalID: 4762440061824552190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_256
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d5ca3990e688080800000000000000
+      internalID: -9184970452610818720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_257
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d752638ce3805680800000000000000
+      internalID: -8768363422650574896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_258
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e74bae6342a591c0800000000000000
+      internalID: -4497510242356344861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_259
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb885fb7d7944a0800000000000000
+      internalID: -6608613006835663651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_260
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ce166c030ff530800000000000000
+      internalID: 3890831954859182482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_261
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7dff381d4049f0800000000000000
+      internalID: -486303993207882849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_262
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5669184990a1f310800000000000000
+      internalID: 1437106336307963486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_263
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548351ea2c6321b10800000000000000
+      internalID: 1950681798377027653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_264
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076dead40e760e820800000000000000
+      internalID: 2945468369373943408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_265
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b836ec4b50c770800000000000000
+      internalID: 8628997271879987306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_266
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a3d50f57d6c6a0800000000000000
+      internalID: -6429214614905182068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_267
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34469102835008d40800000000000000
+      internalID: 5584469276554257475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_268
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b1d5007971210c0800000000000000
+      internalID: -4606593531532993754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stolen_Dungeon Tileset_269
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1773b88b7636688e0800000000000000
+      internalID: -1691555312902129807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
