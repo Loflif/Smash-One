@@ -20,7 +20,16 @@ public class shot : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Level")
+        if (collision.CompareTag("Level"))
+        {
+            Destroy(gameObject);
+        }
+        
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Level"))
         {
             Destroy(gameObject);
         }
