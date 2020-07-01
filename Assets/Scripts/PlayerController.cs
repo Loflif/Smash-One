@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private GameObject CurrentAmmo;
 
     [SerializeField] public int HP;
-
+    [SerializeField] public int Money;
     [SerializeField] private KeyCode UpKey = KeyCode.W;
     [SerializeField] private KeyCode RightKey = KeyCode.D;
     [SerializeField] private KeyCode DownKey = KeyCode.S;
@@ -173,13 +173,18 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    private void OnTriggerStay2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         //powerups
-        if (collision.gameObject.tag == "Powerup")
+        if (collision.CompareTag("Powerup"))
         {
             CurrentPowerup = 1;
             PowerupTimer = PowerupDuration;
+            Destroy(collision.gameObject);
+        }
+        else if(collision.CompareTag("Money"))
+        {
+            Money++;
             Destroy(collision.gameObject);
         }
     }
