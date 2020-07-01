@@ -25,10 +25,10 @@ public class PlayerChestBehaviour : MonoBehaviour
         
     }
 
-    public void face(int direction)
+    public void face(Direction pDirection)
     {
         facing.enabled = false;
-        facing = directions[direction];
+        facing = directions[(int)pDirection];
         facing.enabled = true;
     }
 

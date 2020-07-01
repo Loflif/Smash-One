@@ -138,35 +138,35 @@ public class PlayerController : MonoBehaviour
         {
             case Direction.NORTH:
                 Instantiate(CurrentAmmo, ShotOriginsN.position, ShotOriginsN.rotation, ShotParent);
-                chest.face(0);
+                chest.face(pDirection);
                 break;
             case Direction.NORTH_EAST:
                 Instantiate(CurrentAmmo, ShotOriginsNE.position, ShotOriginsNE.rotation, ShotParent);
-                chest.face(1);
+                chest.face(pDirection);
                 break;
             case Direction.EAST:
                 Instantiate(CurrentAmmo, ShotOriginsE.position, ShotOriginsE.rotation, ShotParent);
-                chest.face(2);
+                chest.face(pDirection);
                 break;
             case Direction.SOUTH_EAST:
                 Instantiate(CurrentAmmo, ShotOriginsSE.position, ShotOriginsSE.rotation, ShotParent);
-                chest.face(3);
+                chest.face(pDirection);
                 break;
             case Direction.SOUTH:
                 Instantiate(CurrentAmmo, ShotOriginsS.position, ShotOriginsS.rotation, ShotParent);
-                chest.face(4);
+                chest.face(pDirection);
                 break;
             case Direction.SOUTH_WEST:
                 Instantiate(CurrentAmmo, ShotOriginsSW.position, ShotOriginsSW.rotation, ShotParent);
-                chest.face(5);
+                chest.face(pDirection);
                 break;
             case Direction.WEST:
                 Instantiate(CurrentAmmo, ShotOriginsW.position, ShotOriginsW.rotation, ShotParent);
-                chest.face(6);
+                chest.face(pDirection);
                 break;
             case Direction.NORTH_WEST:
                 Instantiate(CurrentAmmo, ShotOriginsNW.position, ShotOriginsNW.rotation, ShotParent);
-                chest.face(7);
+                chest.face(pDirection);
                 break;
             
         }
