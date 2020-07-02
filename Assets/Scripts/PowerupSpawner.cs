@@ -25,7 +25,6 @@ public class PowerupSpawner : MonoBehaviour
         currentTimer -= Time.deltaTime;
         if (currentTimer <= 0)
         {
-            Debug.Log("it's happening!");
             currentTimer = timer;
             SpawnPowerup();
         }
