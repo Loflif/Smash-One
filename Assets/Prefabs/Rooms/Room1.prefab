@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 883735519560259790}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Room1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 6009581526985372955}
   - component: {fileID: 6009581526985372952}
   - component: {fileID: 6009581526985372954}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Foreground
   m_TagString: Level
   m_Icon: {fileID: 0}
@@ -501,7 +501,7 @@ GameObject:
   - component: {fileID: 6009581527037644258}
   - component: {fileID: 6009581527037644259}
   - component: {fileID: 6009581527037644253}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Background
   m_TagString: Level
   m_Icon: {fileID: 0}

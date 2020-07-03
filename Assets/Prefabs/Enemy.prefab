@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7279868500838781235}
   - component: {fileID: 4031226255585383525}
   - component: {fileID: 1939859444}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  speed: 1
+  speed: 3
   hp: 0
   drop: {fileID: 955677366649342612, guid: b9142cb80e213e646910395668e22e14, type: 3}
 --- !u!61 &7279868500838781235
@@ -147,7 +147,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!95 &1939859444
 Animator:
   serializedVersion: 3

@@ -6,21 +6,37 @@ using UnityEngine;
 [System.Serializable]
 public struct SpawnerData
 {
-    public Transform SpawnPosition;
     public GameObject EnemyFormation;
+
+    public GameObject PowerUp;
 
     public float SpawnDelay;
 }
 
 public class EnemySpawner : MonoBehaviour
 {
+    [SerializeField] private bool InfiniteSpawner = true;
+    [SerializeField] private List<Transform> EnemySpawnPoints = new List<Transform>();
+    [SerializeField] private List<Transform> PowerupSpawnPoints = new List<Transform>();
+
     [SerializeField] public List<SpawnerData> Spawns = new List<SpawnerData>();
 
     private double timeLeft;
 
+    private SpawnerData nextSpawn;
+
+    private bool lastSpawnSet = false;
+
     void Start()
     {
-        SetNextTimer();
+        if(InfiniteSpawner)
+        {
+            SetNextSpawnRandom();
+        }
+        else
+        {
+            SetNextSpawn();
+        }
     }
 
     void Update()
@@ -29,28 +45,71 @@ public class EnemySpawner : MonoBehaviour
         {
             SpawnNext();
         }
+
         timeLeft -= Time.deltaTime;
     }
 
-    void SpawnNext()
+    private void SpawnNext()
     {
-        if (Spawns.Count <= 0)
-            return;
-        
-        Instantiate(Spawns[0].EnemyFormation, Spawns[0].SpawnPosition);
-        SetNextTimer();
-
-        if (Spawns.Count > 0)
+        Instantiate(nextSpawn.EnemyFormation, GetRandomEnemySpawnPoint());
+        if(nextSpawn.PowerUp != null)
         {
-            Spawns.RemoveAt(0);
+            Instantiate(nextSpawn.PowerUp, GetRandomPowerupSpawnPoint());
+        }
+        if (InfiniteSpawner)
+        {
+            SetNextSpawnRandom();
+        }
+        else
+        {
+            SetNextSpawn();
         }
     }
 
-    void SetNextTimer()
+    private void SetNextSpawn()
     {
+        if(lastSpawnSet)
+            this.enabled = false;
         if (Spawns.Count <= 0)
             return;
 
-        timeLeft = Spawns[0].SpawnDelay;
+        nextSpawn = Spawns[0];
+        
+        Spawns.RemoveAt(0);
+        if (Spawns.Count <= 0)
+        {
+            lastSpawnSet = true;
+        }
+
+        timeLeft = nextSpawn.SpawnDelay;
+    }
+
+    private void SetNextSpawnRandom()
+    {
+        int randomSpawnCount = Random.Range(0, Spawns.Count);
+        nextSpawn = Spawns[randomSpawnCount];
+        timeLeft = nextSpawn.SpawnDelay;
+    }
+
+    private Transform GetRandomEnemySpawnPoint()
+    {
+        if(EnemySpawnPoints.Count < 0)
+        {
+            Debug.LogWarning("Enemy Spawn Points not Set");
+            return transform;
+        }
+        int randomSpawnPointCount = Random.Range(0, EnemySpawnPoints.Count);
+        return EnemySpawnPoints[randomSpawnPointCount];
+    }
+
+    private Transform GetRandomPowerupSpawnPoint()
+    {
+        if (PowerupSpawnPoints.Count < 0)
+        {
+            Debug.LogWarning("Powerup Spawn Points not Set");
+            return transform;
+        }
+        int randomSpawnPointCount = Random.Range(0, PowerupSpawnPoints.Count);
+        return PowerupSpawnPoints[randomSpawnPointCount];
     }
 }

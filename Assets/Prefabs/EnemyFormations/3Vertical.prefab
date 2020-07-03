@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4030028621916729773}
   m_Layer: 0
-  m_Name: Formation1
+  m_Name: FormationNS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48,12 +48,12 @@ PrefabInstance:
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.35
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.11
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
@@ -123,7 +123,7 @@ PrefabInstance:
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.017
       objectReference: {fileID: 0}
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
@@ -198,17 +198,17 @@ PrefabInstance:
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.5206754
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.064044
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5.5117188
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3853882230046608925, guid: a3e9da185ddd01148a97e733be05567f,
         type: 3}
