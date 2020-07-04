@@ -1200,6 +1200,7 @@ GameObject:
   - component: {fileID: 7229507741924086410}
   - component: {fileID: 7229507741924086415}
   - component: {fileID: 73352984}
+  - component: {fileID: 188702522}
   m_Layer: 0
   m_Name: playerONE
   m_TagString: Untagged
@@ -1241,14 +1242,6 @@ MonoBehaviour:
     type: 3}
   HP: 2
   Money: 0
-  UpKey: 119
-  RightKey: 100
-  DownKey: 115
-  LeftKey: 97
-  UpShootKey: 273
-  RightShootKey: 275
-  DownShootKey: 274
-  LeftShootKey: 276
   ShotOriginsN: {fileID: 813319976}
   ShotOriginsNE: {fileID: 1331339663}
   ShotOriginsE: {fileID: 176457924}
@@ -1260,6 +1253,7 @@ MonoBehaviour:
   ShotParent: {fileID: 0}
   MovementSpeed: 4.31
   ShootCooldown: 0.2
+  ShootTimer: 0
   CurrentPowerup: 0
   PowerupDuration: 10
   chest: {fileID: 1943685917}
@@ -1311,6 +1305,67 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.3137942, y: 0.49853992}
   m_EdgeRadius: 0
+--- !u!114 &188702522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7229507741924086411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: a7d44a27e2accf84c878d4484a1a5fd4,
+    type: 3}
+  m_NotificationBehavior: 2
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 7229507741924086410}
+        m_MethodName: HandleMoveControls
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: asdf
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 988d6683-c331-47ad-9ddd-127d48b3a338
+    m_ActionName: Player/Move[/Keyboard/w,/Keyboard/s,/Keyboard/a,/Keyboard/d]
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 7229507741924086410}
+        m_MethodName: HandleShootControls
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 0098922a-2127-4340-8e9a-0837d3e6c512
+    m_ActionName: Player/Shoot[/Keyboard/upArrow,/Keyboard/downArrow,/Keyboard/leftArrow,/Keyboard/rightArrow]
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
 --- !u!1 &7368463799628467545
 GameObject:
   m_ObjectHideFlags: 0
