@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 8780132228451544708}
   - component: {fileID: 8780132228451544715}
   - component: {fileID: 8780132228451544709}
-  - component: {fileID: 380813266}
   m_Layer: 5
   m_Name: Left Joystick
   m_TagString: Untagged
@@ -91,20 +90,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stick: {fileID: 8780132228582506233}
   offset: {x: 0, y: 0, z: 0}
-  m_ControlPath: <Gamepad>/leftStick
---- !u!114 &380813266
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8780132228451544713}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9d677f1681015749b15c436eec6d880, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MovementRange: 50
   m_ControlPath: <Gamepad>/leftStick
 --- !u!1 &8780132228582506232
 GameObject:
